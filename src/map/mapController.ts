@@ -1,7 +1,10 @@
-import { Map as MapLibreMap, GeoJSONSource } from 'maplibre-gl';
+import { Map as MapLibreMap, GeoJSONSource, setWorkerUrl } from 'maplibre-gl';
 import type { Feature, Point, FeatureCollection } from 'geojson';
 import type { LocationItem, WorldType, PlayerState } from '../types';
 import { createRadarGeoJSON } from '../spatial/radar';
+
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+setWorkerUrl(`${basePath}/maplibre-gl-worker.mjs`);
 
 export interface MapControllerCallbacks {
   onLocationClick: (loc: LocationItem) => void;

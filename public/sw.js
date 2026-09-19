@@ -1,29 +1,32 @@
-const APP_CACHE_NAME = 'totk-app-v1';
+const APP_CACHE_NAME = 'totk-app-v2';
 const TILES_CACHE_NAME = 'totk-tiles-v1';
 
-const STATIC_PRECACHE = [
-  '/',
-  '/index.html',
-  '/manifest.webmanifest',
-  '/markers.png',
-  '/markers@2x.png',
-  '/markers.json',
-  '/markers@2x.json',
-  '/totk_data.json',
-  '/guides/armor_sets.json',
-  '/guides/checklist_100.json',
-  '/guides/dragons.json',
-  '/guides/minibosses.json',
-  '/guides/sages_will.json',
-  '/guides/voice_memories.json',
-];
-
-// Install: pre-cache core application shell & static data
+// Install: pre-cache core application shell & static data dynamically using SW scope
 self.addEventListener('install', (event) => {
+  const basePath = new URL(self.registration.scope).pathname.replace(/\/$/, '');
+  const staticPrecache = [
+    `${basePath}/`,
+    `${basePath}/index.html`,
+    `${basePath}/manifest.webmanifest`,
+    `${basePath}/maplibre-gl-worker.mjs`,
+    `${basePath}/maplibre-gl-shared.mjs`,
+    `${basePath}/markers.png`,
+    `${basePath}/markers@2x.png`,
+    `${basePath}/markers.json`,
+    `${basePath}/markers@2x.json`,
+    `${basePath}/totk_data.json`,
+    `${basePath}/guides/armor_sets.json`,
+    `${basePath}/guides/checklist_100.json`,
+    `${basePath}/guides/dragons.json`,
+    `${basePath}/guides/minibosses.json`,
+    `${basePath}/guides/sages_will.json`,
+    `${basePath}/guides/voice_memories.json`,
+  ];
+
   event.waitUntil(
     caches
       .open(APP_CACHE_NAME)
-      .then((cache) => cache.addAll(STATIC_PRECACHE))
+      .then((cache) => cache.addAll(staticPrecache))
       .then(() => self.skipWaiting())
       .catch((err) => console.warn('[SW] Pre-cache warning:', err))
   );

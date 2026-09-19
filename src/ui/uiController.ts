@@ -1317,7 +1317,8 @@ export class UIController {
       this.bindSearchResultClickEvents();
     }
 
-    // 5. Bottom Sheet Toggle, Minimize & Restore
+    // 5. Bottom Sheet Toggle, Minimize & Restore + Swipe Gestures
+    const bottomSheet = this.appContainer.querySelector('#bottom-sheet') as HTMLElement;
     const btnToggleSheet = this.appContainer.querySelector('#btn-toggle-sheet');
     const sheetHandle = this.appContainer.querySelector('#sheet-handle');
     const btnHideSheet = this.appContainer.querySelector('#btn-hide-sheet');
@@ -1345,6 +1346,80 @@ export class UIController {
       this.bottomSheetState = 'lite';
       this.render();
     });
+
+    // Touch Swipe Gestures for Bottom Sheet
+    if (bottomSheet) {
+      let startY = 0;
+      let startX = 0;
+      let isTouchingHeaderOrHandle = false;
+
+      bottomSheet.addEventListener('touchstart', (e: TouchEvent) => {
+        if (e.touches.length !== 1) return;
+        startY = e.touches[0].clientY;
+        startX = e.touches[0].clientX;
+
+        const target = e.target as HTMLElement;
+        const handleEl = this.appContainer.querySelector('#sheet-handle');
+        const headerEl = handleEl?.nextElementSibling as HTMLElement;
+        isTouchingHeaderOrHandle = !!(
+          (handleEl && (handleEl === target || handleEl.contains(target))) ||
+          (headerEl && (headerEl === target || headerEl.contains(target)))
+        );
+      }, { passive: true });
+
+      bottomSheet.addEventListener('touchend', (e: TouchEvent) => {
+        if (e.changedTouches.length !== 1) return;
+        const endY = e.changedTouches[0].clientY;
+        const endX = e.changedTouches[0].clientX;
+        const deltaY = endY - startY;
+        const deltaX = endX - startX;
+
+        // Ensure vertical gesture dominates horizontal gesture with a 35px threshold
+        if (Math.abs(deltaY) < 35 || Math.abs(deltaY) <= Math.abs(deltaX)) {
+          return;
+        }
+
+        if (deltaY < -35) {
+          // Swipe UP
+          if (this.bottomSheetState === 'lite') {
+            this.bottomSheetState = 'full';
+            this.render();
+          }
+        } else if (deltaY > 35) {
+          // Swipe DOWN
+          if (this.bottomSheetState === 'lite') {
+            // Swipe down when already lite -> hide completely
+            this.bottomSheetState = 'hidden';
+            this.render();
+          } else if (this.bottomSheetState === 'full') {
+            // Swipe down when full -> collapse to lite if touch started on handle/header
+            // or if content container is scrolled to the very top
+            const scrollContainer = bottomSheet.querySelector('.overflow-y-auto') as HTMLElement;
+            const isAtTop = !scrollContainer || scrollContainer.scrollTop <= 5;
+
+            if (isTouchingHeaderOrHandle || isAtTop) {
+              this.bottomSheetState = 'lite';
+              this.render();
+            }
+          }
+        }
+      }, { passive: true });
+    }
+
+    // Swipe up on floating thumb button to restore bottom sheet when hidden
+    const btnShowSheetEl = btnShowSheet as HTMLElement | null;
+    if (btnShowSheetEl) {
+      let fStartY = 0;
+      btnShowSheetEl.addEventListener('touchstart', (e: TouchEvent) => {
+        if (e.touches.length === 1) fStartY = e.touches[0].clientY;
+      }, { passive: true });
+      btnShowSheetEl.addEventListener('touchend', (e: TouchEvent) => {
+        if (e.changedTouches.length === 1 && fStartY - e.changedTouches[0].clientY > 30) {
+          this.bottomSheetState = 'lite';
+          this.render();
+        }
+      }, { passive: true });
+    }
 
     this.appContainer.querySelectorAll('.tab-btn').forEach((btn) => {
       btn.addEventListener('click', (e) => {
