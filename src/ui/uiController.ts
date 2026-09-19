@@ -49,6 +49,7 @@ export class UIController {
     if (!el) throw new Error(`Element #${containerId} not found`);
     this.appContainer = el;
     this.events = events;
+    this.refreshCachedTileCount();
   }
 
   setData(locations: LocationItem[], groups: Group[], categories: Record<string, Category>): void {
@@ -455,7 +456,7 @@ export class UIController {
               <span>📶</span> <span>Offline Map & PWA</span>
             </div>
             <span id="cached-tile-count-label" class="text-[10px] text-totk-cyan font-mono font-bold">
-              ${this.cachedTileCount} tiles cached
+              ${this.cachedTileCount} / 545 tiles (${Math.min(100, Math.round((this.cachedTileCount / 545) * 100))}%)
             </span>
           </div>
           <div class="text-[11px] text-slate-400 leading-relaxed">
@@ -472,7 +473,11 @@ export class UIController {
                       <span>Mengunduh peta offline...</span>
                     </span>
                     <span id="offline-download-progress-text" class="font-mono text-totk-gold font-bold">
-                      ${this.downloadProgress.current} / ${this.downloadProgress.total}
+                      ${this.downloadProgress.current} / ${this.downloadProgress.total} (${
+                        this.downloadProgress.total > 0
+                          ? Math.round((this.downloadProgress.current / this.downloadProgress.total) * 100)
+                          : 0
+                      }%)
                     </span>
                   </div>
                   <div class="w-full bg-slate-800 rounded-full h-2 overflow-hidden">
@@ -541,17 +546,20 @@ export class UIController {
       this.cachedTileCount = keys.length;
       const countEl = document.getElementById('cached-tile-count-label');
       if (countEl) {
-        countEl.textContent = `${this.cachedTileCount} tiles cached (~${((this.cachedTileCount * 12) / 1024).toFixed(1)} MB)`;
+        const totalOffline = 545;
+        const pct = Math.min(100, Math.round((this.cachedTileCount / totalOffline) * 100));
+        countEl.textContent = `${this.cachedTileCount} / ${totalOffline} tiles (${pct}%)`;
       }
     } catch {}
   }
 
   private generateOfflineTileUrls(): string[] {
-    const minLat = 0.25;
-    const maxLat = 1.17;
-    const minLng = -1.03;
-    const maxLng = -0.35;
+    const minLat = 0.23;
+    const maxLat = 1.19;
+    const minLng = -1.05;
+    const maxLng = -0.33;
     const urls: string[] = [];
+    const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     for (let z = 9; z <= 13; z++) {
       const n = Math.pow(2, z);
@@ -569,7 +577,7 @@ export class UIController {
 
       for (let x = minX; x <= maxX; x++) {
         for (let y = minY; y <= maxY; y++) {
-          urls.push(`/tiles/${z}/${x}/${y}.jpg`);
+          urls.push(`${basePath}/tiles/${z}/${x}/${y}.jpg`);
         }
       }
     }
@@ -597,18 +605,22 @@ export class UIController {
             const match = await cache.match(u);
             if (!match) {
               const res = await fetch(u);
-              if (res.ok) await cache.put(u, res);
+              if (res.ok) {
+                await cache.put(u, res);
+              }
             }
           } catch {}
 
           completed++;
-          if (completed % 10 === 0 || completed === urls.length) {
+          if (completed % 5 === 0 || completed === urls.length) {
             this.downloadProgress.current = completed;
             const progressEl = document.getElementById('offline-download-progress-bar');
             const textEl = document.getElementById('offline-download-progress-text');
+            const countEl = document.getElementById('cached-tile-count-label');
             const pct = Math.round((completed / urls.length) * 100);
             if (progressEl) progressEl.style.width = `${pct}%`;
             if (textEl) textEl.textContent = `${completed} / ${urls.length} (${pct}%)`;
+            if (countEl) countEl.textContent = `${completed} / ${urls.length} tiles (${pct}%)`;
           }
         }
       };

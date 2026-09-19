@@ -59,7 +59,7 @@ self.addEventListener('fetch', (event) => {
 
   // 1. Map Tiles (Local /tiles/* or fallback to external)
   if (
-    (url.origin === location.origin && url.pathname.startsWith('/tiles/')) ||
+    (url.origin === location.origin && (url.pathname.startsWith('/tiles/') || url.pathname.includes('/tiles/'))) ||
     url.hostname.includes('tiles.mapgenie.io')
   ) {
     event.respondWith(
