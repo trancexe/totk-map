@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 462346,
+    "name": "Zelda 001 - Hyrule Castle Gates",
+    "info": "Location:  Just outside of Hyrule Castle, on the road to Hyrule Castle Town Ruins.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462347,
+    "name": "Zelda 002 - The Royal Family's Dining Table",
+    "info": "Location:  In the Dining Hall of Hyrule Castle, on the southeast side of the castle near the Second Gatehouse.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462348,
+    "name": "Zelda 003 - A Missing View",
+    "info": "Location:  On the balcony of the Observation Room, overlookiung the Hyrule Castle Town Ruins.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462350,
+    "name": "Zelda 004 - Sturdy Fortifications",
+    "info": "Location:  On the ground floor of the First Gatehouse, along the southwest wall of Hyrule Castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462351,
+    "name": "Zelda 005 - The Honest Truth",
+    "info": "Location:  Inside the Guards' Chamber, underneatht he FIrst Gatehouse along the southwestern wall of Castle Hyrule.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462352,
+    "name": "Zelda 006 - The Great Bandit",
+    "info": "Location:  Hyrule castle's Lockup, accessed from the river on the northwestern side of the castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462353,
+    "name": "Zelda 007 - Busy Days Gone By",
+    "info": "Location:  In the docks underneath Hyrule Castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462355,
+    "name": "Zelda 008 - A King's Secret",
+    "info": "Location:  In the library of Hyrule Castle",
+    "region": "Hyrule Castle"
+  },
+  {
+    "id": 462356,
+    "name": "Zelda 009 - A Place of Shelter",
+    "info": "Location:  In the Hyrule Castle Sanctum, at the top of the castle.",
+    "region": "Hyrule Castle"
+  },
+  {
+    "id": 462358,
+    "name": "Zelda 010 - The Bell That Tolled",
+    "info": "Location:  At the very top of Hyrule Castle, by the bell.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462359,
+    "name": "Zelda 011 - A Neglected Room",
+    "info": "Location:  Inside Princess Zelda's Room, on the western side of Hyrule Castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462360,
+    "name": "Zelda 012 - A Strong Princess",
+    "info": "Location:  Inside Princess Zelda's Study, on the western side of the castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462362,
+    "name": "Zelda 013 - Memories at the Gazebo",
+    "info": "Location:  In a ruined gazebo, on the southwestern side of the castle.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462363,
+    "name": "Zelda 014 - Castle Town Fountain",
+    "info": "Location:  In the center of Central Square, in the Hyrule Castle Town Ruins.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462365,
+    "name": "Zelda 016 - Requiem for the Dead",
+    "info": "Location:  Inside Hyrule Castle Town Ruins, on top of a grave alongside a Silent Princess.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462367,
+    "name": "Zelda 017 - Barred from the Prison",
+    "info": "Location:  In the center of Castle Town Prison.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462368,
+    "name": "Zelda 018 - Our Responsibility",
+    "info": "Location:  In the middle of the Royal Ancient Lab Ruins, in Hyrule Ridge.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462369,
+    "name": "Zelda 067 - Precautions on Top of Precautions",
+    "info": "Location:  In the Emergency Shelter, at the bottom of the well in Lookout Landing.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462371,
+    "name": "Zelda 068 - Surveyors Wanted!",
+    "info": "Location:  At the base of the Lookout Landing Skyview Tower.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462372,
+    "name": "Zelda 069 - Assembling the Survey Team",
+    "info": "Location:  Inside the building on the northern edge of Lookout Landing, on the ground floor.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462373,
+    "name": "Zelda 070 - Materials Cache",
+    "info": "Location:  By a building supplies station, south of Lookout Landing.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462375,
+    "name": "Zelda 071 - Flavor Memories",
+    "info": "Location:  In the center of Mabe Village Ruins.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 462376,
+    "name": "Zelda 076 - A New Route",
+    "info": "Location:  South of Goron City, in the center of the crossroads.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462377,
+    "name": "Zelda 077 - Rock Connoisseurs",
+    "info": "Location:  Under the archway at the entrance of Goron City.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462378,
+    "name": "Zelda 078 - A Familiar Face",
+    "info": "Location:  Near the entrance of a house, southeast of the Goron City Inn.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462380,
+    "name": "Zelda 079 - Peak Protein Provisions",
+    "info": "Location:  WIthin Goron City, beside the merchant.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462382,
+    "name": "Zelda 080 - Blacksmith Retainer",
+    "info": "Location:  Behind the blacksmith, in front of the building.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462383,
+    "name": "Zelda 081 - Honoring Daruk",
+    "info": "Location:  On the southern side of Stolock Bridge.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462384,
+    "name": "Zelda 082 - A Slumbering Volcano",
+    "info": "Location:  On the western side of the Bridge of Eldin.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 276856,
+    "name": "Zelda 083 - Yunobo Is Making the World Better",
+    "info": "Location:  Inside  YunoboCo HQ .",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462386,
+    "name": "Zelda 084 - Accidentally Ill-Mannered",
+    "info": "Location:  In the center of the Goron Hot Springs",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 278277,
+    "name": "Zelda 085 - Train Mind and Body",
+    "info": "Location:  In front of the entrance to  Foothill Stable",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462388,
+    "name": "Zelda 086 - Blocked Trailhead",
+    "info": "Location:  Underneath the large landbridge, overlooking Lake Intenoch.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 277825,
+    "name": "Zelda 088 - Path of the Guardians",
+    "info": "Location:  In front of the tombstone beside  South Akkala Stable",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462390,
+    "name": "Zelda 087 - Akkala Citadel Memorial",
+    "info": "Location:  On top of the tombstone between the trees.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 279300,
+    "name": "Zelda 089 - The Lost Hamlet",
+    "info": "Location:  Right beside the  Shadow Hamlet Ruins Well",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 462392,
+    "name": "Zelda 090 - Good and Evil",
+    "info": "Location:  In the center of the Spring of Power.",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 277827,
+    "name": "Zelda 091 - The Signature Steamed Buns",
+    "info": "Location:  In the entrance to  East Akkala Stable .",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 462394,
+    "name": "Zelda 092 - Particular Geniuses",
+    "info": "Location:  In the entrance to the Lighthouse.",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 462395,
+    "name": "Zelda 093 - An Ideal World",
+    "info": "Location:  In the entrance to Tarrey Town",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462396,
+    "name": "Zelda 094 - Taciturn President",
+    "info": "Location:  Inside the building, in front of Rhondson.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462397,
+    "name": "Zelda 095 - Successor \"Son\"",
+    "info": "Location:  In front of Hagie.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462398,
+    "name": "Zelda 096 - A Less-Than-Safe-Road",
+    "info": "Location:  In front of the trolley going down.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462399,
+    "name": "Zelda 097 - Hudson Construction Workshop",
+    "info": "Location:  At the entrance of the Hudson Construction Site.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462400,
+    "name": "Zelda 098 - Cunning Tactics",
+    "info": "Location:  In the center of the ruins, close to the water.",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 462401,
+    "name": "Zelda 099 - Inscriptions of Zora History",
+    "info": "Location:  In front of the Zora Inscription wall against the mountainside.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 462402,
+    "name": "Zelda 100 - Building a Relationship",
+    "info": "Location:  On top of the boulders overlooking the East Reservoir Lake.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464445,
+    "name": "Zelda 019 - Maritta Memorial",
+    "info": "Location:  On the grave with a SIlent Princess atop.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464448,
+    "name": "020 - Solitary Moving Stable",
+    "info": "Location:  In the forest clearing, by the carriage.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464450,
+    "name": "Zelda 021 - Slumbering Ruins",
+    "info": "Location:  In Typhlo Ruins, by the tall columns.",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 464451,
+    "name": "Zelda 022 - Importance of Fossil Studies",
+    "info": "Location:  North of the Eldin Great Skeleton.",
+    "region": "Eldin Mountains"
+  },
+  {
+    "id": 278171,
+    "name": "Zelda 023 - Forgotten Temple",
+    "info": "Location:  Inside the  Forgotten Temple 's main room.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464454,
+    "name": "Zelda 024 - Bearing the Name North Lomei",
+    "info": "Location:  At the entrance of the North Lomei Labyrinth.",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 464455,
+    "name": "Zelda 025 - Goflam's Secret Hot Spring",
+    "info": "Location:  At the entrance of the hot springs; enter through the northern passageway.",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 277694,
+    "name": "Zelda 026 - The Golden Horse",
+    "info": "Location:  At the entrance of  Snowfield Stable .",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 286937,
+    "name": "Zelda 027 - Galli's Worries",
+    "info": "Location:  At the entrance of the  Orni Stable .",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464458,
+    "name": "Zelda 028 - Wings Soaring the Skies",
+    "info": "Location:  In front of the bropken bridge leading to Rito Village.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464459,
+    "name": "Zelda 029 - Honoring Revali",
+    "info": "Location:  On the first pillar island connecting Rito Village to the mainland.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464460,
+    "name": "Zelda 030 - His Name...",
+    "info": "Location:  At the Rito Village entrance gate, at the foot of the stairs.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464461,
+    "name": "Zelda 031 - Revali's Landing",
+    "info": "Location:  At Revali's Landing, on top of Rito Village.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464462,
+    "name": "Zelda 032 - The Future Elder",
+    "info": "Location:  Inside the house of Saki.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 464463,
+    "name": "Zelda 033 - A Warrior to Aspire",
+    "info": "Location:  Inside the flying range.",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 464464,
+    "name": "Zelda 034 - Scar from 10,000 Years Ago",
+    "info": "Location:  On the western side of Hebra Peak, within some wooden fortifications.",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 464465,
+    "name": "Zelda 035 - Regret and Repentance",
+    "info": "Location:  By the Ancient Columns, on top of the cliff.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 277814,
+    "name": "Zelda 036 - Worries of a Caretaker",
+    "info": "Location:  At the entrance of the  Tabantha Bridge Stable",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 464467,
+    "name": "Zelda 037 - The Plateau Where Thunder Fell Silent",
+    "info": "Location:  In Thundra Plateau, on an island in the middle of the marsh.",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 464468,
+    "name": "Zelda 038 - Learning to Have an Open Heart",
+    "info": "Location:  Behind the horse statue in Sanidin Park.",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 464469,
+    "name": "Zelda 039 - Spreading Cherry Blossoms",
+    "info": "Location:  At the cherry tree atop Satori Mountain.",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 464470,
+    "name": "Zelda 040 - The \"Meet-Up\" Stable",
+    "info": "Location:  At the entrance of the Outskirts Stable.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464471,
+    "name": "Zelda 041 - Harsh Lands",
+    "info": "Location:  Along the path leading to Gerudo Desert.",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 464472,
+    "name": "Zelda 042 - Vah Naboris Excavation Site",
+    "info": "Location:  At the bottom of the Gerudo Canyon Pass's southern bend.",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 464473,
+    "name": "Zelda 043 - Monsters in the Well",
+    "info": "Location:  At the entrance of the Gerudo Canyon Stable.",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 464474,
+    "name": "Zelda 044 - Gerudo Desert",
+    "info": "Location:  Past the Gerudo Desert Gateway, a few steps into the desert proper.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464475,
+    "name": "Zelda 045 - Desert Oasis",
+    "info": "Location:  On the northern side of Kara Kara Bazaar.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464476,
+    "name": "Zelda 046 - The Young Chief",
+    "info": "Location:  At the entrance of Gerudo Town.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464477,
+    "name": "Zelda 047 - An Audience With Riju",
+    "info": "Location:  Inside Gerudo Town's throne room.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464478,
+    "name": "Zelda 048 - Patricia",
+    "info": "Location:  In front of Patricia, Riju's favorite seal.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464479,
+    "name": "Zelda 049 - Gerudo Soldier Training",
+    "info": "Location:  At the entrance of the Gerudo soldier training ground.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464480,
+    "name": "Zelda 050 - Memories of the Sand Seals",
+    "info": "Location:  Inside the sand seal pens.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 279711,
+    "name": "Zelda 051 - Another Attempt, 100 Years",
+    "info": "Location:  Inside  Hotel Oasis , in front of Furosa.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464482,
+    "name": "Zelda 052 - Mysterious Ruins",
+    "info": "Location:  In the center of the North Gerudo Ruins.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464483,
+    "name": "Zelda 053 - Exploring Where the Chasm Leads",
+    "info": "Location:  On front of the chasm north of Gerudo Desert.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464485,
+    "name": "Zelda 054 - Desert Watchtower",
+    "info": "Location:  Atop a wooden watchtower, close to a Korok Ring challenge.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 282322,
+    "name": "Zelda 055 - Concerning the Fossils",
+    "info": "Location:  Inside  Gerudo Great Skeleton , by the skeleton's eye.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464487,
+    "name": "Zelda 056 - Bearing the Name South Lomei",
+    "info": "Location:  At the entrance of the South Lomei Labyrinth.",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 464488,
+    "name": "Zelda 057 - Honoring Urbosa",
+    "info": "Location:  Atop Spectacle Rock, looking at the statue.",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 464489,
+    "name": "Zelda 058 - Outpost Memorial",
+    "info": "Location:  Inside the Gatepost Town Ruins, at the road intersection.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464490,
+    "name": "Zelda 059 - Birthplace of Hyrule",
+    "info": "Location:  Inside the Gatepost Town Ruins, looking at the gate towards the Great Plateau.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464491,
+    "name": "Zelda 062 - A King's Rest",
+    "info": "Location:  At the peak of Mount Hylia, in front of the king's memorial.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464492,
+    "name": "Zelda 101 - Those Who Remember the Calamity",
+    "info": "Location:  On the southern end of the Great Zora Bridge.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464493,
+    "name": "Zelda 102 - Statue Relocation",
+    "info": "Location:  In front of the statue in the center of Zora's Domain.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464494,
+    "name": "Zelda 103 - Audience with King Dorephan",
+    "info": "Location:  Inside King Dorephan's audience chamber.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 276829,
+    "name": "Zelda 104 - A Maiden's Prayer",
+    "info": "Location:  Within the  General Store .",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464496,
+    "name": "Zelda 105 - Seabed Inn",
+    "info": "Location:  Inside the Seabed Inn, by the beds.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 277454,
+    "name": "Zelda 106 - Kings' Purification Ceremony",
+    "info": "Location:  Inside the  Pristine Sanctum .",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464498,
+    "name": "Zelda 107 - Honoring Mipha",
+    "info": "Location:  In front of the statue, at the top of the hill.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 464499,
+    "name": "Zelda 108 - The Horse-Rearing Village",
+    "info": "Location:  Between the two houses in the Goponga Village Ruins.",
+    "region": "Lanayru Wetlands"
+  },
+  {
+    "id": 464500,
+    "name": "Zelda 109 - The Stable Association",
+    "info": "Location:  At the entrance of the Wetland Stable.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464501,
+    "name": "Zelda 110 - Blooming Joy",
+    "info": "Location:  In the center of the island, on top of the broken fountain.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464502,
+    "name": "Zelda 111 - Gathering of Gourmets",
+    "info": "Location:  At the entrance of the Riverside Stable.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 464503,
+    "name": "Zelda 112 - Sharing the Joy of the Equestrian Arts",
+    "info": "Location:  At the entrance of the Highland Stable.",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 464504,
+    "name": "Zelda 113 - Courage Proven",
+    "info": "Location:  In the center of the Shrine of Courage.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464505,
+    "name": "Zelda 114 - Dondons",
+    "info": "Location:  At the entrance of the Lakeside Stable.",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 464506,
+    "name": "Zelda 115 - A Wish Realized",
+    "info": "Location:  Just north of the heart-shaped pond.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464507,
+    "name": "Zelda 116 - Mountain of Prayers",
+    "info": "Location:  At the peak of Tuft Mountain.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464508,
+    "name": "Zelda 117 - Hospitality",
+    "info": "Location:  Underneath the entrance gate to Lurelin Village",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464509,
+    "name": "Zelda 118 - Two Hundred and Twenty-Eight Recipes",
+    "info": "Location:  In front of the Lurelin Inn.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464510,
+    "name": "Zelda 119 - Ship-Shaped Shelter",
+    "info": "Location:  In front of the Lurelin Inn.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464511,
+    "name": "Zelda 120 - Guardians of the Ocean",
+    "info": "Location:  At the edge of the water, in front of a small statue.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464512,
+    "name": "Zelda 121 - Demon King's Claw",
+    "info": "Location:  At the very tip of Demon King's Claw.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464513,
+    "name": "Zelda 122 - A Wild Idea Lost to the Sea",
+    "info": "Location:  On the sandy beach, on a small rocky outcrop.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464514,
+    "name": "Zelda 123 - Eventide Island",
+    "info": "Location:  On the western side of Eventide Island, near Toronbo Beach.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464515,
+    "name": "Zelda 124 - Dueling Peaks Memorial",
+    "info": "Location:  On top of the stone memorial, south of the path.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464516,
+    "name": "Zelda 125 - Twin Saviors",
+    "info": "Location:  On the road between the Dueling Peaks.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464517,
+    "name": "Zelda 126 - Grave Markers",
+    "info": "Location:  In the center of the Blatchery Plain.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464518,
+    "name": "Zelda 127 - Fort Hateno Memorial",
+    "info": "Location:  Underneath Fort Hateno's gate.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464519,
+    "name": "Zelda 128 - The Stable on a Battlefield",
+    "info": "Location:  At the entrance to the Dueling Peaks Stable",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464520,
+    "name": "Zelda 129 - Hidden Sheikah Tribe",
+    "info": "Location:  Underneath the gate to Kakariko Village",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464521,
+    "name": "Zelda 130 - Hundred-Year-Old Friendship",
+    "info": "Location:  At the front door of the elder's house.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464522,
+    "name": "Zelda 131 - Sanke Carp",
+    "info": "Location:  On the wooden platform south of the elder's house. Look over the edge towards the waterfall.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464523,
+    "name": "Zelda 132 - Frog Guardian",
+    "info": "Location:  In front of the frog statue beyond the bridge.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464524,
+    "name": "Zelda 133 - Mellie's Plum Garden",
+    "info": "Location:  In the center of the plum tree garden.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464525,
+    "name": "Zelda 134 - Koko's Garland",
+    "info": "Location:  On top of the insignia in front of the house.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464526,
+    "name": "Zelda 135 - Cotera's Considerations",
+    "info": "Location:  At the edge of the East Hill Chasm.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 464527,
+    "name": "Zelda 136 - Spring of Wisdom",
+    "info": "Location:  In the center of the Spring of Wisdom, in front of the statue.",
+    "region": "Mount Lanayru"
+  },
+  {
+    "id": 464528,
+    "name": "Zelda 137 - Feeling Truly at Home",
+    "info": "Location:  Underneath the entrance gate to Hateno Village.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276898,
+    "name": "Zelda 138 - The Rumoured Fashionista",
+    "info": "Location:  In the center of  Ventest Clothing Boutique .",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276896,
+    "name": "Zelda 139 - Splash of Inspiration",
+    "info": "Location:  In front of  Kochi Dye Shop",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276899,
+    "name": "Zelda 140 - Beacon of Hope",
+    "info": "Location:  In front of the  Hateno School",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276895,
+    "name": "Zelda 141 - Unforgettable Flavor",
+    "info": "Location:  In front of the  Hateno Pasture",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276909,
+    "name": "Zelda 142 - In a Puff of Smoke...",
+    "info": "Location:  In front of the  Hateno Ancient Tech Lab",
+    "region": "East Necluda"
+  },
+  {
+    "id": 276909,
+    "name": "Zelda 143 - Anti-Aging Secrets",
+    "info": "Location:  In the room atop the  Hateno Ancient Tech Lab .",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464535,
+    "name": "Zelda 144 - Hateno Beach",
+    "info": "Location:  At the southern end of the road, on Hateno Beach.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464536,
+    "name": "Zelda 145 - Divine Punishment",
+    "info": "Location:  On the northern shore of Firly Pond.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 279305,
+    "name": "Zelda 146 - Secret Hideout",
+    "info": "Location:  Inside  Zelda's Secret Well",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464538,
+    "name": "Zelda 147 - Zelda's Home",
+    "info": "Location:  Inside Zelda's house, right beyond the front door.",
+    "region": "East Necluda"
+  },
+  {
+    "id": 464539,
+    "name": "Zelda 148 - Forest of the Deku tree",
+    "info": "Location:  At the entrance of the Lost Woods.",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 464540,
+    "name": "Zelda 149 - A Sword's Protector",
+    "info": "Location:  By the Great Deku Tree, on one of its roots.",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 464541,
+    "name": "Zelda 150 - Master Sword",
+    "info": "Location:  In front of the Great Deku Tree.",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 276620,
+    "name": "Rauru 001 - Sacred Tree of the Zonai",
+    "info": "Location:  On top of the  Room of Awakening ; use Ascend to reach.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 276619,
+    "name": "Rauru 002 - Fading Legacy",
+    "info": "Location:  In a small cave, beside the  Nachoyah Shrine .",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464544,
+    "name": "Rauru 003 - Piercing Evil",
+    "info": "Location:  At the entrance of the Temple of Time.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464545,
+    "name": "Rauru 004 - The Altar",
+    "info": "Location:  In front of the altar beyond the Temple of Time.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464546,
+    "name": "Rauru 005 - The Forest Ostrich",
+    "info": "Location:  In the forest, beside a wandering ostrich.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464547,
+    "name": "Rauru 006 - Energy Lines",
+    "info": "Location:  At the start of a rail system leading west.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464548,
+    "name": "Rauru 007 - Construct Compassion",
+    "info": "Location:  In front of the construct by the campfire.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464549,
+    "name": "Rauru 008 - A Sense of Taste",
+    "info": "Location:  By the construct and the cooking pot in the building.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464550,
+    "name": "Rauru 009 - Musings",
+    "info": "Location:  Beside the nearby Zonai Dispenser.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464551,
+    "name": "Rauru 010 - Sky Island Guardians",
+    "info": "Location:  In front of the Flux Construct I.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464553,
+    "name": "Rauru 011 - Crafted Snowscape",
+    "info": "Location:  In front of the Pit Cave entrance.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464555,
+    "name": "Rauru 012 - Solo Riders Only",
+    "info": "Location:  in front of the Zonai Wing launching area.",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 279207,
+    "name": "Rauru 013 - Inexperienced Constructs",
+    "info": "Location:  In front of the constructs on the shore, the same ones who give Link the  Energy Cell",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 464557,
+    "name": "Rauru 014 - Circular Design",
+    "info": "Location:  In the center of the northernmost island.",
+    "region": "Sky"
+  },
+  {
+    "id": 464558,
+    "name": "Rauru 015 - Zonaite Forge Island",
+    "info": "Location:  IN front of the barred gate leading into the Zonaite Forge.",
+    "region": "Sky"
+  },
+  {
+    "id": 279425,
+    "name": "Rauru 016 - Valor Island",
+    "info": "Location:  In front of the pit for the  Dive Ceremony",
+    "region": "Sky"
+  },
+  {
+    "id": 464560,
+    "name": "Rauru 017 - Low Gravity Space",
+    "info": "Location:  Between the two pillars at the end of the island.",
+    "region": "Sky"
+  },
+  {
+    "id": 464561,
+    "name": "Rauru 018 - Floating Spheres of Water",
+    "info": "Location:  Beside the water orbs.",
+    "region": "Sky"
+  },
+  {
+    "id": 464562,
+    "name": "Rauru 019 - Wellspring Island",
+    "info": "Location:  At the entrance of the Water Temple, in front of the statue.",
+    "region": "Water Temple"
+  },
+  {
+    "id": 464563,
+    "name": "Rauru 020 - Floating Scales Island",
+    "info": "Location:  In the center of the Floating Scales Island.",
+    "region": "Sky"
+  },
+  {
+    "id": 464566,
+    "name": "Rauru 021 - Launch Mechanism",
+    "info": "Location:  In the middle of the central island of the Sokkala Sky Archipelago",
+    "region": "Sky"
+  },
+  {
+    "id": 464567,
+    "name": "Rauru 022 - Sky Mine",
+    "info": "Location:  In the center of the southwesternmost platform.",
+    "region": "Sky"
+  },
+  {
+    "id": 464568,
+    "name": "Rauru 023 - Ruled by the Dragon",
+    "info": "Location:  In front of the Lomei Sky Labyrinth",
+    "region": "Sky"
+  },
+  {
+    "id": 279424,
+    "name": "Rauru 024 - Bravery Island",
+    "info": "Location:  In front of the platform for the  Dive Ceremony",
+    "region": "Sky"
+  },
+  {
+    "id": 464570,
+    "name": "Rauru 025 - Ruled by the Owl",
+    "info": "Location:  In front of the North Lomei Castle Top Floor",
+    "region": "Sky"
+  },
+  {
+    "id": 464571,
+    "name": "Rauru 026 - Traversal Challenges",
+    "info": "Location:  On an island floating just underneath the Wind Temple.",
+    "region": "Sky"
+  },
+  {
+    "id": 464572,
+    "name": "Rauru 027 - Stormwind Ark",
+    "info": "Location:  A few steps behind the Wind Temple entrance.",
+    "region": "Wind Temple"
+  },
+  {
+    "id": 277840,
+    "name": "Rauru 028 - Courage Island",
+    "info": "Location:  In front of the platform used for the  Dive Ceremony",
+    "region": "Sky"
+  },
+  {
+    "id": 464574,
+    "name": "Rauru 029 - Lightcast Island",
+    "info": "Location:  In front of the terminal.",
+    "region": "Sky"
+  },
+  {
+    "id": 464576,
+    "name": "Rauru 030 - Starview Island",
+    "info": "Location:  Inside the orb that is Starview Island.",
+    "region": "Sky"
+  },
+  {
+    "id": 277801,
+    "name": "Rauru 031 - Crumbling Fortress",
+    "info": "Location:  In front of  Rakashog Shrine .",
+    "region": "Sky"
+  },
+  {
+    "id": 464578,
+    "name": "Rauru 032 - Ruled by the Boar",
+    "info": "Location:  In front of the South Lomei Castle Top Floor entrance.",
+    "region": "Sky"
+  },
+  {
+    "id": 464579,
+    "name": "Rauru 033 - Thunderhead Isles",
+    "info": "Location:  At the northern end of the Thunderhead Isles, in front of the pond.",
+    "region": "Sky"
+  },
+  {
+    "id": 464580,
+    "name": "Rauru 034 - Faith in the Lightning Dragon",
+    "info": "Location:  On the Thunderhead Isles, in front of a small dragon statue.",
+    "region": "Sky"
+  },
+  {
+    "id": 282465,
+    "name": "Rauru 035 - Treasure Maps",
+    "info": "Location:  In the hidden chamber with the  Old Map - Trousers of the Sky",
+    "region": "Sky"
+  },
+  {
+    "id": 464582,
+    "name": "Kohga 001 - Master Kohga Returns!",
+    "info": "Location:  In front of the hot air balloons.",
+    "region": "Depths"
+  },
+  {
+    "id": 277883,
+    "name": "Kohga 002 - Lightroots",
+    "info": "Location:  Just underneath the  Umamustor Lightroot .",
+    "region": "Depths"
+  },
+  {
+    "id": 464584,
+    "name": "Kohga 003 - Wandering Poes",
+    "info": "Location:  By the several wandering poes, on the ledge going deeper.",
+    "region": "Depths"
+  },
+  {
+    "id": 464585,
+    "name": "Kohga 004 - A Keen Sixth Sense",
+    "info": "Location:  At the end of the root going into the lake.",
+    "region": "Depths"
+  },
+  {
+    "id": 464586,
+    "name": "Kohga 005 - Master Kohga Education, Part 1",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464587,
+    "name": "Kohga 006 - Mater Kohga's Education, Part 2",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464590,
+    "name": "Kohga 007 - Puffshroom",
+    "info": "Location:  At the base of the large mushroom, with several Puffshrooms.",
+    "region": "Depths"
+  },
+  {
+    "id": 464595,
+    "name": "Kohga 008 - Invitation to Join the Yiga Clan",
+    "info": "Location:  In the center of the Bokoblin Camp.",
+    "region": "Depths"
+  },
+  {
+    "id": 278140,
+    "name": "Kohga 009 - Escaping the Bokoblins",
+    "info": "Location:  Underneath the  Tatayam Lightroot .",
+    "region": "Depths"
+  },
+  {
+    "id": 464600,
+    "name": "Kohga 010 - Abandoned Kara Kara Mine",
+    "info": "Location:  In front of the forge construct.",
+    "region": "Depths"
+  },
+  {
+    "id": 464603,
+    "name": "Kohga 011 - Tempted by the Muddle Bud",
+    "info": "Location:  In front of the tall tree with a Muddle Bud at the base.",
+    "region": "Depths"
+  },
+  {
+    "id": 464604,
+    "name": "Kohga 012 - Standing Shadows",
+    "info": "Location:  Beside the shadow offering the Traveler's Claymore.",
+    "region": "Depths"
+  },
+  {
+    "id": 464605,
+    "name": "Kohga 013 - Silent Companions",
+    "info": "Location:  In front of the tall stone statue, south of the lightroot.",
+    "region": "Depths"
+  },
+  {
+    "id": 464606,
+    "name": "Kohga 014 - Essence of Banana",
+    "info": "Location:  In the center of the circular structure within the Abandoned Gerudo Mine.",
+    "region": "Depths"
+  },
+  {
+    "id": 464607,
+    "name": "Kohga 015 - Master Kohga's Education, Part 3",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464608,
+    "name": "Kohga 016 - The Cemetery's Secret",
+    "info": "Location:  By the eastern stairs of the Gerudo Underground Cemetery.",
+    "region": "Depths"
+  },
+  {
+    "id": 464609,
+    "name": "Kohga 017 - Unsafe Gathering",
+    "info": "Location:  In the entrance to the Desert Coliseum",
+    "region": "Depths"
+  },
+  {
+    "id": 464610,
+    "name": "Kohga 018 - Great Skeletons of the Depths",
+    "info": "Location:  Underneath the Gerudo Dark Skeleton.",
+    "region": "Depths"
+  },
+  {
+    "id": 464611,
+    "name": "Kohga 019 - Master Kohga's Education, part 4",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464612,
+    "name": "Kohga 020 - Building Up the Yiga Clan Empire",
+    "info": "Location:  In the Yiga Hideout, beside the tent.",
+    "region": "Depths"
+  },
+  {
+    "id": 282668,
+    "name": "Kohga 021 - The Glutton Frox",
+    "info": "Location:  Inside the pit, by the  Blue-White Frox",
+    "region": "Depths"
+  },
+  {
+    "id": 464615,
+    "name": "Kohga 022 - An Ancient Guard",
+    "info": "Location:  On the southeastern side of the arena with the Flux Construct III.",
+    "region": "Depths"
+  },
+  {
+    "id": 464620,
+    "name": "Kohga 023 - They Shall Be Called Zonai Devices!",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464622,
+    "name": "Kohga 024 - A Way Up",
+    "info": "Location:  In the center of the lighthouse.",
+    "region": "Depths"
+  },
+  {
+    "id": 464623,
+    "name": "Kohga 025 - A Stone Giant",
+    "info": "Location:  In front of the Bargainer Statue.",
+    "region": "Depths"
+  },
+  {
+    "id": 464624,
+    "name": "Kohga 026 - A Gleeok Den",
+    "info": "Location:  In the center of the Gleeok Den",
+    "region": "Depths"
+  },
+  {
+    "id": 464625,
+    "name": "Kohga 027 - Master Kohga's Education, part 5",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464626,
+    "name": "Kohga 028 - Death Mountain Initiation",
+    "info": "Location:  Next to the Fire Temple entrance.",
+    "region": "Fire Temple"
+  },
+  {
+    "id": 464627,
+    "name": "Kohga 029 - Master Kohga's Education, part 6",
+    "info": "Location:  In the center of the station with several Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464628,
+    "name": "Kohga 030 - A Deep Firefly",
+    "info": "Location:  At the border of the grove.",
+    "region": "Depths"
+  },
+  {
+    "id": 464629,
+    "name": "Kohga 031 - Zora Statues",
+    "info": "Location:  At the foot of a giant Zora statue.",
+    "region": "Depths"
+  },
+  {
+    "id": 464630,
+    "name": "Kohga 032 - Abandoned Lanayru Mine",
+    "info": "Location:  At the center of the circular structure of the Abandoned Lanayru Mine.",
+    "region": "Depths"
+  },
+  {
+    "id": 464631,
+    "name": "Kohga 033 - What Lives in the Abandoned Mine?",
+    "info": "Location:  In the center of the circular structure of the Abandoned Kakariko Mine.",
+    "region": "Depths"
+  },
+  {
+    "id": 464632,
+    "name": "Kohga 034 - Oozing Madness",
+    "info": "Location:  On the platform with the Zonai Wing.",
+    "region": "Depths"
+  },
+  {
+    "id": 464633,
+    "name": "Kohga 035 - Spirit Temple",
+    "info": "Location:  In the center of the Spirit Temple.",
+    "region": "Depths"
+  },
+  {
+    "id": 464634,
+    "name": "Kohga 036 - Construct Factory",
+    "info": "Location:  On the stairs leading to the Construct Factory.",
+    "region": "Depths"
+  },
+  {
+    "id": 464635,
+    "name": "Kohga 037 - Mecha Kohga 5000 - Deluxe",
+    "info": "Location:  In front of the giant pile of Zonai devices.",
+    "region": "Depths"
+  },
+  {
+    "id": 464636,
+    "name": "Kohga 038 - Uninvited Guests",
+    "info": "Location:  At the top of the structure, in front of the stuck Wing.",
+    "region": "Depths"
+  },
+  {
+    "id": 464637,
+    "name": "Kohga 039 - Great Abandoned Central Mine",
+    "info": "Location:  In the center of the structure, by the Steward Construct.",
+    "region": "Depths"
+  },
+  {
+    "id": 464638,
+    "name": "Kohga 040 - Spy Report",
+    "info": "Location:  Inside the reasercher's camp.",
+    "region": "Depths"
+  },
+  {
+    "id": 464639,
+    "name": "Kohga 041 - Secret Spring of Revival",
+    "info": "Location:  On the platform leading into the spring.",
+    "region": "Depths"
+  },
+  {
+    "id": 464640,
+    "name": "Kohga 042 - Zonai Charge",
+    "info": "Location:  Inside the researcher's camp.",
+    "region": "Depths"
+  },
+  {
+    "id": 464641,
+    "name": "Kohga 043 - Abandoned Hebra Mine",
+    "info": "Location:  In the center of the Abandoned Hebra Mine.",
+    "region": "Depths"
+  },
+  {
+    "id": 464642,
+    "name": "Kohga 044 - Lomei",
+    "info": "Location:  In front of the entrance to the North Lomei Depths Labyrinth.",
+    "region": "Depths"
+  },
+  {
+    "id": 464643,
+    "name": "Kohga 045 - The Dragon's Path",
+    "info": "Location:  In front of the tent in the Yiga base.",
+    "region": "Depths"
+  },
+  {
+    "id": 505065,
+    "name": "Zelda 072 - New Sprouts",
+    "info": "Location:  South of Hyrule Forest Park, just past the row of trees that are next to the road.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 902241,
+    "name": "Kohga 054 - Unwelcome News",
+    "info": "Location:  West of the Nisoij Lightroot, a small campsite with a fire.",
+    "region": "Depths"
+  },
+  {
+    "id": 902243,
+    "name": "Zelda 015 - Cathedral Reminiscence",
+    "info": "Location:  At the Hyrule Cathedral ruins, next to a crate.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 926401,
+    "name": "Kohga 051 - Sundelions",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 936872,
+    "name": "Kohga 048 - Origins of the Gloom",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 936919,
+    "name": "Kohga 052 - Master Kohga's Wish",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 937036,
+    "name": "Kohga 047 - Little Frox Farm",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 937051,
+    "name": "Kohga 046 - Yiga Clan: Aquatics Division",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 937115,
+    "name": "Kohga 050 - Signs of the Demon King",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 937324,
+    "name": "Zelda 066 - Ancient Tree Stump",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 937325,
+    "name": "Zelda 065 - Unshaken Bravery",
+    "info": "Location:  Infront of the fountain.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 937342,
+    "name": "Zelda 075 - A Prayer for Brave Soldiers",
+    "info": "",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 937343,
+    "name": "Zelda 074 - The Stable Trotters",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 937344,
+    "name": "Zelda 073 - Rauru Settlement Memorial",
+    "info": "Location:  Along the road, near a gravestone located at the Rauru Settlement Ruins.",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 937428,
+    "name": "Zelda 063 - The Hut's Owner",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 937430,
+    "name": "Zelda 060 - The Hero Awakened",
+    "info": "In the Shrine of Resurrection Cave near the Healing Pool.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 937431,
+    "name": "Zelda 064 - Link's Trauma",
+    "info": "Location:   \n \n Near Hopper Pond",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 937435,
+    "name": "Zelda 061 - The Passage of Time",
+    "info": "Location:   \n \n In Temple of Time Ruins",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 942943,
+    "name": "Kohga 053 - Yiga Clan HQ",
+    "info": "Location:  ??",
+    "region": "Depths"
+  },
+  {
+    "id": 946367,
+    "name": "Kohga 055 - Unlocking an Ancient Power",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 946372,
+    "name": "Kohga 049 - The Giant and the Bokoblin",
+    "info": "",
+    "region": "Depths"
+  }
+]

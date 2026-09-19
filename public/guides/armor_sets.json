@@ -1,0 +1,2284 @@
+{
+  "totalPieces": 137,
+  "totalSets": 42,
+  "sets": {
+    "Archaic": [
+      {
+        "id": 276668,
+        "name": "Archaic Warm Greaves",
+        "set": "Archaic",
+        "stats": "Cold Resistance",
+        "location": "In a chest inside the giant hollow tree.",
+        "region": "Great Sky Island"
+      },
+      {
+        "id": 284518,
+        "name": "Archaic Legwear",
+        "set": "Archaic",
+        "stats": "",
+        "location": "Room of Awakening in a chest near the door leading outside to the Great Sky Island.",
+        "region": "Great Sky Island"
+      }
+    ],
+    "Climber's": [
+      {
+        "id": 277712,
+        "name": "Climbing Gear",
+        "set": "Climber's",
+        "stats": "Climb Speed Up",
+        "location": "Inside  North Hyrule Plain Cave .  In a secret cave behind the 2nd waterfall (the one before the  Bubbulfrog ).",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 277051,
+        "name": "Climber's Bandana",
+        "set": "Climber's",
+        "stats": "Climb Speed Up",
+        "location": "At the end of the  Ploymus Mountain Cave , after climbing to the top of the cave",
+        "region": "Lanayru Great Spring"
+      },
+      {
+        "id": 281819,
+        "name": "Climbing Boots",
+        "set": "Climber's",
+        "stats": "Climb Speed Up",
+        "location": "Inside  Upland Zorana Byroad Cave . From the  east cave entrance , keep right at the pool of water. Follow the path downward until you reach ruins. At the back of this area, there's a gate you can lift to lower the water level. Life the gate, then go right into a secret side area with a tent. Open the chest.",
+        "region": "Lanayru Great Spring"
+      }
+    ],
+    "Dark": [
+      {
+        "id": 276867,
+        "name": "Dark Tunic",
+        "set": "Dark",
+        "stats": "",
+        "location": "Sold by any  Bargainer Statue  for Poe.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 276867,
+        "name": "Dark Trousers",
+        "set": "Dark",
+        "stats": "",
+        "location": "Sold by any  Bargainer Statue  for Poe.",
+        "region": "Depths"
+      },
+      {
+        "id": 276867,
+        "name": "Dark Hood",
+        "set": "Dark",
+        "stats": "",
+        "location": "Sold by any  Bargainer Statue  for Poe.",
+        "region": "Depths"
+      }
+    ],
+    "Glide": [
+      {
+        "id": 277840,
+        "name": "Glide Shirt",
+        "set": "Glide",
+        "stats": "Skydive Mobility Up",
+        "location": "Reward for completing the  Dive Ceremony",
+        "region": "Sky"
+      },
+      {
+        "id": 279424,
+        "name": "Glide Tights",
+        "set": "Glide",
+        "stats": "Skydive Mobility Up",
+        "location": "Reward for completing the  Dive Ceremony",
+        "region": "Sky"
+      },
+      {
+        "id": 279425,
+        "name": "Glide Mask",
+        "set": "Glide",
+        "stats": "Skydive Mobility Up",
+        "location": "Reward for completing the  Dive Ceremony",
+        "region": "Sky"
+      }
+    ],
+    "Froggy": [
+      {
+        "id": 277846,
+        "name": "Froggy Hood",
+        "set": "Froggy",
+        "stats": "Slip Resistance",
+        "location": "Reward for completing  Potential Princess Sightings",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 277846,
+        "name": "Froggy Sleeve",
+        "set": "Froggy",
+        "stats": "Slip Resistance",
+        "location": "Reward for completing  Potential Princess Sightings",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 277846,
+        "name": "Froggy Leggings",
+        "set": "Froggy",
+        "stats": "Slip Resistance",
+        "location": "Reward for completing  Potential Princess Sightings",
+        "region": "Tabantha Frontier"
+      }
+    ],
+    "Standalone": [
+      {
+        "id": 278097,
+        "name": "Korok Mask",
+        "set": "Standalone",
+        "stats": "Shakes and jingles when near a korok puzzle",
+        "location": "In the Forest Coliseum, guarded by the  Black Hinox",
+        "region": "Depths"
+      },
+      {
+        "id": 278160,
+        "name": "Sheik's Mask",
+        "set": "Standalone",
+        "stats": "Stealth Up",
+        "location": "In a chest inside the Desert Coliseum, after completing all the waves",
+        "region": "Depths"
+      },
+      {
+        "id": 279219,
+        "name": "Archaic Tunic [Chest]",
+        "set": "Standalone",
+        "stats": "",
+        "location": "Pondside Cave  - In a little outcropping, by the eastern entrance.",
+        "region": "Great Sky Island"
+      },
+      {
+        "id": 279305,
+        "name": "Well-Worn Hair Band",
+        "set": "Standalone",
+        "stats": "",
+        "location": "In the chest that's inside  Zelda's Secret Well",
+        "region": "East Necluda"
+      },
+      {
+        "id": 279349,
+        "name": "Ruby Circlet",
+        "set": "Standalone",
+        "stats": "Cold Resistance",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279349,
+        "name": "Sapphire Circlet",
+        "set": "Standalone",
+        "stats": "Heat Resistance",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279349,
+        "name": "Amber Earrings",
+        "set": "Standalone",
+        "stats": "",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279434,
+        "name": "Champion's Leathers",
+        "set": "Standalone",
+        "stats": "",
+        "location": "Ignite two torches and then open the chest located in the tomb behind the throne",
+        "region": "Hyrule Castle"
+      },
+      {
+        "id": 279439,
+        "name": "Lightning Helm",
+        "set": "Standalone",
+        "stats": "Lightning Proof",
+        "location": "Complete 3 Yiga Challenges in the  Yiga Clan Hideout",
+        "region": "Gerudo Highlands"
+      },
+      {
+        "id": 279951,
+        "name": "Cece Hat",
+        "set": "Standalone",
+        "stats": "",
+        "location": "",
+        "region": "East Necluda"
+      },
+      {
+        "id": 280801,
+        "name": "Ravio's Hood",
+        "set": "Standalone",
+        "stats": "Increases sideways climbing speed.",
+        "location": "Reward for completing  Secluded Coliseum",
+        "region": "Depths"
+      },
+      {
+        "id": 280772,
+        "name": "Midna's Helmet",
+        "set": "Standalone",
+        "stats": "Gloom resistance",
+        "location": "In the chest in the coliseum. defeat the waves of bokoblin to open the chest.",
+        "region": "Depths"
+      },
+      {
+        "id": 280825,
+        "name": "Zant's Helmet",
+        "set": "Standalone",
+        "stats": "Unfreezable",
+        "location": "Complete  Scorching Coliseum",
+        "region": "Depths"
+      },
+      {
+        "id": 280844,
+        "name": "Island Lobster Shirt",
+        "set": "Standalone",
+        "stats": "Heat Resistance",
+        "location": "Under a ship, in the water - use ultrahand to get it out",
+        "region": "East Necluda"
+      },
+      {
+        "id": 277852,
+        "name": "Bokoblin Mask",
+        "set": "Standalone",
+        "stats": "Blend in with Bokoblins",
+        "location": "Reward for completing  The Hunt For Bubbul Gems!",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 284929,
+        "name": "Sand Boots",
+        "set": "Standalone",
+        "stats": "Sand Speed Up",
+        "location": "Gerudo Secret Club",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 284929,
+        "name": "Snow Boots",
+        "set": "Standalone",
+        "stats": "Snow Speed Up",
+        "location": "Gerudo Secret Club",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279349,
+        "name": "Opal Earrings",
+        "set": "Standalone",
+        "stats": "Swim Speed Up",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279349,
+        "name": "Topaz Earrings",
+        "set": "Standalone",
+        "stats": "Shock Resistance",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 279349,
+        "name": "Diamond Circlet",
+        "set": "Standalone",
+        "stats": "Attack Up",
+        "location": "Starlight Memories  (Jewelry Shop)",
+        "region": "Gerudo Desert"
+      }
+    ],
+    "Wind": [
+      {
+        "id": 280795,
+        "name": "Trousers of the Wind",
+        "set": "Wind",
+        "stats": "",
+        "location": "At the end of the  Cresia Pit Mine",
+        "region": "Depths"
+      },
+      {
+        "id": 280272,
+        "name": "Cap of the Wind",
+        "set": "Wind",
+        "stats": "",
+        "location": "Must access via  Tingel Island Chasm   and follow the path of destroyable rocks",
+        "region": "Depths"
+      },
+      {
+        "id": 280798,
+        "name": "Tunic of the Wind",
+        "set": "Wind",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      }
+    ],
+    "Zora Armor": [
+      {
+        "id": 279275,
+        "name": "Zora Helm",
+        "set": "Zora Armor",
+        "stats": "Swim Speed Up",
+        "location": "Go to  the side of the &quot;fish&quot; island by the islands tail, then face north and you should find a hole on the side covered in sludge, from there you can get the Zora helmet (use any water item to clear the sludge).",
+        "region": "Sky"
+      },
+      {
+        "id": 279261,
+        "name": "Zora Armor",
+        "set": "Zora Armor",
+        "stats": "Swim Speed Up",
+        "location": "Reward for completing  Restoring the Zora Armor",
+        "region": "Lanayru Great Spring"
+      },
+      {
+        "id": 279700,
+        "name": "Zora Greaves",
+        "set": "Zora Armor",
+        "stats": "Swim Speed Up",
+        "location": "",
+        "region": "Lanayru Great Spring"
+      }
+    ],
+    "Snowquill": [
+      {
+        "id": 276843,
+        "name": "Snowquill Headdress",
+        "set": "Snowquill",
+        "stats": "Cold Resistance",
+        "location": "Can be purchased from the armor shop in  Rito Village",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 276843,
+        "name": "Snowquill Tunic",
+        "set": "Snowquill",
+        "stats": "Cold Resistance",
+        "location": "Can be purchased from the armor shop in  Rito Village",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 276843,
+        "name": "Snowquill Trousers",
+        "set": "Snowquill",
+        "stats": "Cold Resistance",
+        "location": "Can be purchased from the armor shop in  Rito Village",
+        "region": "Tabantha Frontier"
+      }
+    ],
+    "Flamebreaker": [
+      {
+        "id": 276852,
+        "name": "Flamebreaker Helm",
+        "set": "Flamebreaker",
+        "stats": "Flame Guard",
+        "location": "Can be purchased from the armor shop in  Goron City",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 276852,
+        "name": "Flamebreaker Armor",
+        "set": "Flamebreaker",
+        "stats": "Flame Guard",
+        "location": "Can be purchased from the armor shop in  Goron City",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 276852,
+        "name": "Flamebreaker Boots",
+        "set": "Flamebreaker",
+        "stats": "Flame Guard",
+        "location": "Can be purchased from the armor shop in  Goron City  for 1200 rupees",
+        "region": "Eldin Canyon"
+      }
+    ],
+    "Hylian": [
+      {
+        "id": 276752,
+        "name": "Hylian Hood",
+        "set": "Hylian",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 70 Rupees.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 276752,
+        "name": "Hylian Tunic",
+        "set": "Hylian",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 130 Rupees.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 276752,
+        "name": "Hylian Trousers",
+        "set": "Hylian",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 120 Rupees.",
+        "region": "Hyrule Field"
+      }
+    ],
+    "Stealth": [
+      {
+        "id": 276821,
+        "name": "Stealth Mask",
+        "set": "Stealth",
+        "stats": "Stealth Up",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      },
+      {
+        "id": 276821,
+        "name": "Stealth Chest Guard",
+        "set": "Stealth",
+        "stats": "Stealth Up",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      },
+      {
+        "id": 276821,
+        "name": "Stealth Tights",
+        "set": "Stealth",
+        "stats": "Stealth Up",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      }
+    ],
+    "Desert Voe": [
+      {
+        "id": 279433,
+        "name": "Desert Voe Headband",
+        "set": "Desert Voe",
+        "stats": "Heat Resistance",
+        "location": "Sold by Saula's shop stall in the Kara Kara Bazaar.",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 284929,
+        "name": "Desert Voe Spaulder",
+        "set": "Desert Voe",
+        "stats": "Heat Resistance",
+        "location": "Gerudo Secret Club",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 284929,
+        "name": "Desert Voe Trousers",
+        "set": "Desert Voe",
+        "stats": "Heat Resistance",
+        "location": "Gerudo Secret Club",
+        "region": "Gerudo Desert"
+      }
+    ],
+    "Yiga": [
+      {
+        "id": 279435,
+        "name": "Yiga Tights",
+        "set": "Yiga",
+        "stats": "Stealth Up",
+        "location": "In  Yiga Clan Maritta Branch , ascend to the Aliza room and talk to her",
+        "region": "Great Hyrule Forest"
+      },
+      {
+        "id": 279437,
+        "name": "Yiga Mask",
+        "set": "Yiga",
+        "stats": "Stealth Up",
+        "location": "Infiltrate the hideout and talk to Pitar inside the house",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 279438,
+        "name": "Yiga Armor",
+        "set": "Yiga",
+        "stats": "Stealth Up",
+        "location": "Infiltrate the lighthouse, and talk to Konba",
+        "region": "Deep Akkala"
+      }
+    ],
+    "Radiant": [
+      {
+        "id": 276821,
+        "name": "Radiant Shirt",
+        "set": "Radiant",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      },
+      {
+        "id": 276821,
+        "name": "Radiant Mask",
+        "set": "Radiant",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      },
+      {
+        "id": 276821,
+        "name": "Radiant Tights",
+        "set": "Radiant",
+        "stats": "",
+        "location": "Can be purchased from the armor shop in  Kakariko Village",
+        "region": "West Necluda"
+      }
+    ],
+    "Royal Guard": [
+      {
+        "id": 279445,
+        "name": "Royal Guard Boots",
+        "set": "Royal Guard",
+        "stats": "??",
+        "location": "Hyrule Castle B3 , behind bookshelves, in King's Study",
+        "region": "Hyrule Castle"
+      },
+      {
+        "id": 279451,
+        "name": "Royal Guard Cap",
+        "set": "Royal Guard",
+        "stats": "??",
+        "location": "In the corner of  Princess Zelda's Room  - behind a small partition",
+        "region": "Hyrule Castle"
+      },
+      {
+        "id": 279454,
+        "name": "Royal Guard Uniform",
+        "set": "Royal Guard",
+        "stats": "",
+        "location": "In the  Guard's Chamber",
+        "region": "Hyrule Field"
+      }
+    ],
+    "Zonaite Set": [
+      {
+        "id": 279584,
+        "name": "Zonaite Helm",
+        "set": "Zonaite Set",
+        "stats": "Energy Up",
+        "location": "Lightcast Island",
+        "region": "Sky"
+      },
+      {
+        "id": 279590,
+        "name": "Zonaite Waistguard",
+        "set": "Zonaite Set",
+        "stats": "Energy Up",
+        "location": "Inside Zonaite Forge Island, use ascend ability under tower in the lava pool area",
+        "region": "Sky"
+      },
+      {
+        "id": 280286,
+        "name": "Zonaite Shin Guards",
+        "set": "Zonaite Set",
+        "stats": "Energy Up",
+        "location": "Inside the spinning sphere. You'll need a heavy block from below to weigh down the button.",
+        "region": "Sky"
+      }
+    ],
+    "Barbarian": [
+      {
+        "id": 279638,
+        "name": "Barbarian Armor",
+        "set": "Barbarian",
+        "stats": "Attack Up",
+        "location": "Inside Crenel Hills Cave, past the Luminescent Stone Talus, behind breakable rocks.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 279591,
+        "name": "Barbarian Helm",
+        "set": "Barbarian",
+        "stats": "Attack Up",
+        "location": "At the end of the  Robred Dropoff Cave",
+        "region": "West Necluda"
+      },
+      {
+        "id": 279728,
+        "name": "Barbarian Leg Wraps",
+        "set": "Barbarian",
+        "stats": "Attack Up",
+        "location": "In the middle of the  Walnot Mountain Cave , jump across a gap on the higher ridge past an Ice Like.",
+        "region": "East Necluda"
+      }
+    ],
+    "Fierce Deity": [
+      {
+        "id": 277795,
+        "name": "Fierce Deity Boots",
+        "set": "Fierce Deity",
+        "stats": "Attack Up",
+        "location": "Inside the  Ancient Tree Stump Cave , you need to go down around the water level, you'll see an area with branches that you can cut down. You'll need to climb.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 280701,
+        "name": "Fierce Deity Mask",
+        "set": "Fierce Deity",
+        "stats": "Attack Up",
+        "location": "Inside the  Skull Lake Cave",
+        "region": "Deep Akkala"
+      },
+      {
+        "id": 277118,
+        "name": "Fierce Deity Armor",
+        "set": "Fierce Deity",
+        "stats": "Attack Up",
+        "location": "Under the  Akkala Citadel Ruins , inside the  Akkala Citadel Ruins Summit Cave",
+        "region": "Akkala Highlands"
+      }
+    ],
+    "Miner's": [
+      {
+        "id": 279717,
+        "name": "Miner's Top",
+        "set": "Miner's",
+        "stats": "Glow",
+        "location": "??",
+        "region": "Depths"
+      },
+      {
+        "id": 279724,
+        "name": "Miner's Trousers",
+        "set": "Miner's",
+        "stats": "Glow",
+        "location": "-1287, -2251, -0707",
+        "region": "Depths"
+      },
+      {
+        "id": 279725,
+        "name": "Miner's Mask",
+        "set": "Miner's",
+        "stats": "Glow",
+        "location": "??",
+        "region": "Depths"
+      }
+    ],
+    "Rubber": [
+      {
+        "id": 279230,
+        "name": "Rubber Armor",
+        "set": "Rubber",
+        "stats": "Shock Resistance",
+        "location": "In the  Whistling Hill Cave . Behind a Shock Like, destroy an elevated cracked wall.",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 282073,
+        "name": "Rubber Helm",
+        "set": "Rubber",
+        "stats": "Shock Resistance",
+        "location": "At the end of the  Sarjon Woods Cave , after the waterfall",
+        "region": "Faron Grasslands"
+      },
+      {
+        "id": 280514,
+        "name": "Rubber Tights",
+        "set": "Rubber",
+        "stats": "Shock Resistance",
+        "location": "Behind destructible wall in the  Horon Lagoon Cave",
+        "region": "Lanayru Great Spring"
+      }
+    ],
+    "Depths": [
+      {
+        "id": 276867,
+        "name": "Gaiters of the Depths",
+        "set": "Depths",
+        "stats": "Gloom Resistance",
+        "location": "Sold by any  Bargainer Statue  for 200 Poe",
+        "region": "Depths"
+      },
+      {
+        "id": 276867,
+        "name": "Hood of the Depths",
+        "set": "Depths",
+        "stats": "Gloom Resistance",
+        "location": "Sold by any  Bargainer Statue  for 300 Poe.",
+        "region": "Depths"
+      },
+      {
+        "id": 276867,
+        "name": "Tunic of the Depths",
+        "set": "Depths",
+        "stats": "Gloom Resistance",
+        "location": "Sold by any  Bargainer Statue  for 150 Poe",
+        "region": "Hyrule Field"
+      }
+    ],
+    "??": [
+      {
+        "id": 279749,
+        "name": "Majora's Mask",
+        "set": "??",
+        "stats": "Makes it harder for certain enemies to spot you",
+        "location": "Complete  Floating Coliseum",
+        "region": "Depths"
+      }
+    ],
+    "Ember": [
+      {
+        "id": 280697,
+        "name": "Ember Trousers",
+        "set": "Ember",
+        "stats": "Hot Weather Attack",
+        "location": "In one of the chests inside the  Cephla Lake Cave",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 277835,
+        "name": "Ember Headdress",
+        "set": "Ember",
+        "stats": "Hot Weather Attack",
+        "location": "In  YunoboCo HQ South Cave",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 280705,
+        "name": "Ember Shirt",
+        "set": "Ember",
+        "stats": "Hot Weather Attack",
+        "location": "At the end of the  Goronbi River Cave",
+        "region": "Eldin Canyon"
+      }
+    ],
+    "Frostbite": [
+      {
+        "id": 279995,
+        "name": "Frostbite Shirt",
+        "set": "Frostbite",
+        "stats": "Cold Weather Attack",
+        "location": "Inside  Brightcap Cave . Burn away thorns to reach the chest inside a tent.",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 280710,
+        "name": "Frostbite Trousers",
+        "set": "Frostbite",
+        "stats": "Cold Weather Attack",
+        "location": "In  Hebra Headspring Cave",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 280462,
+        "name": "Frostbite Headdress",
+        "set": "Frostbite",
+        "stats": "Cold Weather Attack",
+        "location": "Chest behind a breakable wall in  Lake Kilsie Cave",
+        "region": "Hebra Mountains"
+      }
+    ],
+    "Evil Spirit": [
+      {
+        "id": 278299,
+        "name": "Evil Spirit Armor",
+        "set": "Evil Spirit",
+        "stats": "Stealth Up",
+        "location": "Reward for completing  The Lomei Labyrinth Island Prophecy  Side Quest",
+        "region": "Depths"
+      },
+      {
+        "id": 281125,
+        "name": "Evil Spirit Greaves",
+        "set": "Evil Spirit",
+        "stats": "Stealth Up",
+        "location": "Reward for completing  The North Lomei Prophecy .",
+        "region": "Depths"
+      },
+      {
+        "id": 280877,
+        "name": "Evil Spirit Mask",
+        "set": "Evil Spirit",
+        "stats": "Stealth Up",
+        "location": "Reward for completing The South Lomei Prophecy Side Quest",
+        "region": "Depths"
+      }
+    ],
+    "Divine Helms": [
+      {
+        "id": 280463,
+        "name": "Vah Medoh Divine Helm",
+        "set": "Divine Helms",
+        "stats": "Cold Resistance",
+        "location": "Inside North Biron Snowshelf Cave as part of the Treasure of the Secret Springs quest.",
+        "region": "Hebra Mountains"
+      },
+      {
+        "id": 280778,
+        "name": "Vah Naboris Divine Helm",
+        "set": "Divine Helms",
+        "stats": "Shock Resistance",
+        "location": "At the end of the  West Gerudo Underground Ruins",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 280779,
+        "name": "Vah Rudania Divine Helm",
+        "set": "Divine Helms",
+        "stats": "Flame Guard",
+        "location": "In the  Lizard's Burrow",
+        "region": "Eldin Canyon"
+      },
+      {
+        "id": 280781,
+        "name": "Vah Ruta Divine Helm",
+        "set": "Divine Helms",
+        "stats": "Swim Speed Up",
+        "location": "Behind the waterfall, at the end of the  Cave Under Zora's Domain .",
+        "region": "Lanayru Great Spring"
+      }
+    ],
+    "Soldier's": [
+      {
+        "id": 280483,
+        "name": "Soldier's Armor",
+        "set": "Soldier's",
+        "stats": "",
+        "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 280483,
+        "name": "Soldier's Helm",
+        "set": "Soldier's",
+        "stats": "",
+        "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+        "region": "Hyrule Field"
+      },
+      {
+        "id": 280483,
+        "name": "Soldier's Greaves",
+        "set": "Soldier's",
+        "stats": "",
+        "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+        "region": "Hyrule Field"
+      }
+    ],
+    "Wild": [
+      {
+        "id": 280784,
+        "name": "Cap of the Wild",
+        "set": "Wild",
+        "stats": "",
+        "location": "On the jawbone of the big dragon skeleton",
+        "region": "Depths"
+      },
+      {
+        "id": 280785,
+        "name": "Tunic of the Wild",
+        "set": "Wild",
+        "stats": "",
+        "location": "On the jawbone of the big dragon skeleton",
+        "region": "Depths"
+      },
+      {
+        "id": 280786,
+        "name": "Trousers of the Wild",
+        "set": "Wild",
+        "stats": "",
+        "location": "On the jawbone of the big dragon skeleton",
+        "region": "Depths"
+      }
+    ],
+    "Hero's": [
+      {
+        "id": 280804,
+        "name": "Tunic of the Hero",
+        "set": "Hero's",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280806,
+        "name": "Trousers of the Hero",
+        "set": "Hero's",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280813,
+        "name": "Cap of the Hero",
+        "set": "Hero's",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      }
+    ],
+    "Twilight": [
+      {
+        "id": 280816,
+        "name": "Trousers of Twilight",
+        "set": "Twilight",
+        "stats": "",
+        "location": "In the middle of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280819,
+        "name": "Tunic of Twilight",
+        "set": "Twilight",
+        "stats": "",
+        "location": "In the middle of the Rist Mine",
+        "region": "Depths"
+      },
+      {
+        "id": 280821,
+        "name": "Cap of Twilight",
+        "set": "Twilight",
+        "stats": "",
+        "location": "Appears in the middle of the arena, after beating  King Gleeok",
+        "region": "Depths"
+      }
+    ],
+    "Sky": [
+      {
+        "id": 280829,
+        "name": "Trousers of the Sky",
+        "set": "Sky",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280831,
+        "name": "Cap of the Sky",
+        "set": "Sky",
+        "stats": "",
+        "location": "In the hollow tree trunk, guarded by an Evermean",
+        "region": "Depths"
+      },
+      {
+        "id": 280833,
+        "name": "Tunic of The Sky",
+        "set": "Sky",
+        "stats": "",
+        "location": "In the hollow tree trunk, guarded by an Evermean",
+        "region": "Depths"
+      }
+    ],
+    "Time": [
+      {
+        "id": 280835,
+        "name": "Trousers of Time",
+        "set": "Time",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280838,
+        "name": "Tunic of Time",
+        "set": "Time",
+        "stats": "",
+        "location": "On top of the ruins",
+        "region": "Depths"
+      },
+      {
+        "id": 280839,
+        "name": "Cap of Time",
+        "set": "Time",
+        "stats": "",
+        "location": "On top stone pillar",
+        "region": "Depths"
+      }
+    ],
+    "Phantom": [
+      {
+        "id": 280845,
+        "name": "Phantom Armor",
+        "set": "Phantom",
+        "stats": "Attack Up",
+        "location": "At the end of the  Tamio River Downstream Cave , behind destructible wall",
+        "region": "Gerudo Highlands"
+      },
+      {
+        "id": 280847,
+        "name": "Phantom Greaves",
+        "set": "Phantom",
+        "stats": "Attack Up",
+        "location": "In the  Ancient Altar Ruins",
+        "region": "Gerudo Desert"
+      },
+      {
+        "id": 280849,
+        "name": "Phantom Helmet",
+        "set": "Phantom",
+        "stats": "Attack Up",
+        "location": "In the  Puffer Beach Overhead Cave",
+        "region": "Faron Grasslands"
+      }
+    ],
+    "Awakening": [
+      {
+        "id": 280853,
+        "name": "Tunic of Awakening",
+        "set": "Awakening",
+        "stats": "",
+        "location": "In the  Ancient Columns Cave",
+        "region": "Tabantha Frontier"
+      },
+      {
+        "id": 280862,
+        "name": "Mask of Awakening",
+        "set": "Awakening",
+        "stats": "",
+        "location": "Inside  Thundra Plateau Cave",
+        "region": "Hyrule Ridge"
+      },
+      {
+        "id": 280866,
+        "name": "Trousers of Awakening",
+        "set": "Awakening",
+        "stats": "",
+        "location": "In the  Coliseum Ruins Cave",
+        "region": "Hyrule Field"
+      }
+    ],
+    "Tingle's": [
+      {
+        "id": 280531,
+        "name": "Tingle's Shirt",
+        "set": "Tingle's",
+        "stats": "",
+        "location": "Inside the  Dueling Peaks South Cave",
+        "region": "West Necluda"
+      },
+      {
+        "id": 280871,
+        "name": "Tingle's Hood",
+        "set": "Tingle's",
+        "stats": "",
+        "location": "At the end of the  Statue of the Eighth Heroine Cave , use fan to blow the sand away from the chest",
+        "region": "Gerudo Highlands"
+      },
+      {
+        "id": 280875,
+        "name": "Tingle's Tights",
+        "set": "Tingle's",
+        "stats": "",
+        "location": "Behind a pile of boxes, on a ship",
+        "region": "East Necluda"
+      }
+    ],
+    "Kilton's Monster Masks": [
+      {
+        "id": 280936,
+        "name": "Bokoblin Mask",
+        "set": "Kilton's Monster Masks",
+        "stats": "Blend in with Bokoblins.",
+        "location": "Koltin Shop  Item #1",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Moblin Mask",
+        "set": "Kilton's Monster Masks",
+        "stats": "Blend in with Moblins.",
+        "location": "Koltin Shop  Item #2",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Lizalfos Mask",
+        "set": "Kilton's Monster Masks",
+        "stats": "Blend in with Lizalfos.",
+        "location": "Koltin Shop  Item #6",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Horriblin Mask",
+        "set": "Kilton's Monster Masks",
+        "stats": "Blend in with Horriblins.",
+        "location": "Koltin Shop  Item #10",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Lynel Mask",
+        "set": "Kilton's Monster Masks",
+        "stats": "Blend in with Lynels for a while.",
+        "location": "Koltin Shop  Item #12",
+        "region": "Akkala Highlands"
+      }
+    ],
+    "Mystic": [
+      {
+        "id": 280936,
+        "name": "Mystic Robe",
+        "set": "Mystic",
+        "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+        "location": "Koltin Shop  Item #4",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Mystic Trousers",
+        "set": "Mystic",
+        "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+        "location": "Koltin Shop  item #8",
+        "region": "Akkala Highlands"
+      },
+      {
+        "id": 280936,
+        "name": "Mystic Headpiece",
+        "set": "Mystic",
+        "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+        "location": "Koltin Shop  Item #14",
+        "region": "Akkala Highlands"
+      }
+    ],
+    "Charged": [
+      {
+        "id": 282574,
+        "name": "Charged Headdress",
+        "set": "Charged",
+        "stats": "Stormy Weather Attack",
+        "location": "Dracozu Lake, follow the river and search for the tall dragon-head statues, the headdress will be hidden on an altar beneath this statue.",
+        "region": "West Necluda"
+      },
+      {
+        "id": 282577,
+        "name": "Charged Trousers",
+        "set": "Charged",
+        "stats": "Stormy Weather Attack",
+        "location": "Dracozu Lake, Beneath a tall dragon statue, there is a doorway with a breakable boulder behind it. The trousers are in a chest in the altar beyond",
+        "region": "West Necluda"
+      },
+      {
+        "id": 282578,
+        "name": "Charged Shirt",
+        "set": "Charged",
+        "stats": "Stormy Weather Attack",
+        "location": "Dracozu Lake, in a chest above where Tauro investigates a hieroglyph.",
+        "region": "West Necluda"
+      }
+    ],
+    "Ancient Hero's Aspect": [
+      {
+        "id": 284432,
+        "name": "Ancient Hero's Aspect",
+        "set": "Ancient Hero's Aspect",
+        "stats": "12 Defence",
+        "location": "Appears behind the Goddess Statue in the Temple of Time, after completing  The Shrine Explorer ,",
+        "region": "Great Sky Island"
+      }
+    ],
+    "None": [
+      {
+        "id": 289436,
+        "name": "Tunic of Memories",
+        "set": "None",
+        "stats": "",
+        "location": "Sold by any Bargainer Statue for 400 Poes, after finding all 7 of them.",
+        "region": "Hyrule Field"
+      }
+    ],
+    "Royal Guard's Set": [
+      {
+        "id": 937535,
+        "name": "Royal Guard's Cap",
+        "set": "Royal Guard's Set",
+        "stats": "Adds 4 armor, upgradable.",
+        "location": "Tower across from Princess Zelda's Study. In a chest",
+        "region": "Hyrule Field"
+      }
+    ]
+  },
+  "pieces": [
+    {
+      "id": 276668,
+      "name": "Archaic Warm Greaves",
+      "set": "Archaic",
+      "stats": "Cold Resistance",
+      "location": "In a chest inside the giant hollow tree.",
+      "region": "Great Sky Island"
+    },
+    {
+      "id": 277712,
+      "name": "Climbing Gear",
+      "set": "Climber's",
+      "stats": "Climb Speed Up",
+      "location": "Inside  North Hyrule Plain Cave .  In a secret cave behind the 2nd waterfall (the one before the  Bubbulfrog ).",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 276867,
+      "name": "Dark Tunic",
+      "set": "Dark",
+      "stats": "",
+      "location": "Sold by any  Bargainer Statue  for Poe.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 277840,
+      "name": "Glide Shirt",
+      "set": "Glide",
+      "stats": "Skydive Mobility Up",
+      "location": "Reward for completing the  Dive Ceremony",
+      "region": "Sky"
+    },
+    {
+      "id": 277846,
+      "name": "Froggy Hood",
+      "set": "Froggy",
+      "stats": "Slip Resistance",
+      "location": "Reward for completing  Potential Princess Sightings",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 278097,
+      "name": "Korok Mask",
+      "set": "Standalone",
+      "stats": "Shakes and jingles when near a korok puzzle",
+      "location": "In the Forest Coliseum, guarded by the  Black Hinox",
+      "region": "Depths"
+    },
+    {
+      "id": 278160,
+      "name": "Sheik's Mask",
+      "set": "Standalone",
+      "stats": "Stealth Up",
+      "location": "In a chest inside the Desert Coliseum, after completing all the waves",
+      "region": "Depths"
+    },
+    {
+      "id": 279219,
+      "name": "Archaic Tunic [Chest]",
+      "set": "Standalone",
+      "stats": "",
+      "location": "Pondside Cave  - In a little outcropping, by the eastern entrance.",
+      "region": "Great Sky Island"
+    },
+    {
+      "id": 280795,
+      "name": "Trousers of the Wind",
+      "set": "Wind",
+      "stats": "",
+      "location": "At the end of the  Cresia Pit Mine",
+      "region": "Depths"
+    },
+    {
+      "id": 279275,
+      "name": "Zora Helm",
+      "set": "Zora Armor",
+      "stats": "Swim Speed Up",
+      "location": "Go to  the side of the &quot;fish&quot; island by the islands tail, then face north and you should find a hole on the side covered in sludge, from there you can get the Zora helmet (use any water item to clear the sludge).",
+      "region": "Sky"
+    },
+    {
+      "id": 276843,
+      "name": "Snowquill Headdress",
+      "set": "Snowquill",
+      "stats": "Cold Resistance",
+      "location": "Can be purchased from the armor shop in  Rito Village",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 276843,
+      "name": "Snowquill Tunic",
+      "set": "Snowquill",
+      "stats": "Cold Resistance",
+      "location": "Can be purchased from the armor shop in  Rito Village",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 276843,
+      "name": "Snowquill Trousers",
+      "set": "Snowquill",
+      "stats": "Cold Resistance",
+      "location": "Can be purchased from the armor shop in  Rito Village",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 276852,
+      "name": "Flamebreaker Helm",
+      "set": "Flamebreaker",
+      "stats": "Flame Guard",
+      "location": "Can be purchased from the armor shop in  Goron City",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 276852,
+      "name": "Flamebreaker Armor",
+      "set": "Flamebreaker",
+      "stats": "Flame Guard",
+      "location": "Can be purchased from the armor shop in  Goron City",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 276852,
+      "name": "Flamebreaker Boots",
+      "set": "Flamebreaker",
+      "stats": "Flame Guard",
+      "location": "Can be purchased from the armor shop in  Goron City  for 1200 rupees",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 276752,
+      "name": "Hylian Hood",
+      "set": "Hylian",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 70 Rupees.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 276752,
+      "name": "Hylian Tunic",
+      "set": "Hylian",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 130 Rupees.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 276752,
+      "name": "Hylian Trousers",
+      "set": "Hylian",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Lookout Landing  or from  Ventest Clothing  (after completing  The Mayoral Election ) for 120 Rupees.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 279305,
+      "name": "Well-Worn Hair Band",
+      "set": "Standalone",
+      "stats": "",
+      "location": "In the chest that's inside  Zelda's Secret Well",
+      "region": "East Necluda"
+    },
+    {
+      "id": 279424,
+      "name": "Glide Tights",
+      "set": "Glide",
+      "stats": "Skydive Mobility Up",
+      "location": "Reward for completing the  Dive Ceremony",
+      "region": "Sky"
+    },
+    {
+      "id": 279425,
+      "name": "Glide Mask",
+      "set": "Glide",
+      "stats": "Skydive Mobility Up",
+      "location": "Reward for completing the  Dive Ceremony",
+      "region": "Sky"
+    },
+    {
+      "id": 276821,
+      "name": "Stealth Mask",
+      "set": "Stealth",
+      "stats": "Stealth Up",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 276821,
+      "name": "Stealth Chest Guard",
+      "set": "Stealth",
+      "stats": "Stealth Up",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 276821,
+      "name": "Stealth Tights",
+      "set": "Stealth",
+      "stats": "Stealth Up",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 279349,
+      "name": "Ruby Circlet",
+      "set": "Standalone",
+      "stats": "Cold Resistance",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279349,
+      "name": "Sapphire Circlet",
+      "set": "Standalone",
+      "stats": "Heat Resistance",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279349,
+      "name": "Amber Earrings",
+      "set": "Standalone",
+      "stats": "",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279433,
+      "name": "Desert Voe Headband",
+      "set": "Desert Voe",
+      "stats": "Heat Resistance",
+      "location": "Sold by Saula's shop stall in the Kara Kara Bazaar.",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279434,
+      "name": "Champion's Leathers",
+      "set": "Standalone",
+      "stats": "",
+      "location": "Ignite two torches and then open the chest located in the tomb behind the throne",
+      "region": "Hyrule Castle"
+    },
+    {
+      "id": 279435,
+      "name": "Yiga Tights",
+      "set": "Yiga",
+      "stats": "Stealth Up",
+      "location": "In  Yiga Clan Maritta Branch , ascend to the Aliza room and talk to her",
+      "region": "Great Hyrule Forest"
+    },
+    {
+      "id": 279437,
+      "name": "Yiga Mask",
+      "set": "Yiga",
+      "stats": "Stealth Up",
+      "location": "Infiltrate the hideout and talk to Pitar inside the house",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 279438,
+      "name": "Yiga Armor",
+      "set": "Yiga",
+      "stats": "Stealth Up",
+      "location": "Infiltrate the lighthouse, and talk to Konba",
+      "region": "Deep Akkala"
+    },
+    {
+      "id": 276821,
+      "name": "Radiant Shirt",
+      "set": "Radiant",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 276821,
+      "name": "Radiant Mask",
+      "set": "Radiant",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 276821,
+      "name": "Radiant Tights",
+      "set": "Radiant",
+      "stats": "",
+      "location": "Can be purchased from the armor shop in  Kakariko Village",
+      "region": "West Necluda"
+    },
+    {
+      "id": 279445,
+      "name": "Royal Guard Boots",
+      "set": "Royal Guard",
+      "stats": "??",
+      "location": "Hyrule Castle B3 , behind bookshelves, in King's Study",
+      "region": "Hyrule Castle"
+    },
+    {
+      "id": 279451,
+      "name": "Royal Guard Cap",
+      "set": "Royal Guard",
+      "stats": "??",
+      "location": "In the corner of  Princess Zelda's Room  - behind a small partition",
+      "region": "Hyrule Castle"
+    },
+    {
+      "id": 279454,
+      "name": "Royal Guard Uniform",
+      "set": "Royal Guard",
+      "stats": "",
+      "location": "In the  Guard's Chamber",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 279584,
+      "name": "Zonaite Helm",
+      "set": "Zonaite Set",
+      "stats": "Energy Up",
+      "location": "Lightcast Island",
+      "region": "Sky"
+    },
+    {
+      "id": 279590,
+      "name": "Zonaite Waistguard",
+      "set": "Zonaite Set",
+      "stats": "Energy Up",
+      "location": "Inside Zonaite Forge Island, use ascend ability under tower in the lava pool area",
+      "region": "Sky"
+    },
+    {
+      "id": 279638,
+      "name": "Barbarian Armor",
+      "set": "Barbarian",
+      "stats": "Attack Up",
+      "location": "Inside Crenel Hills Cave, past the Luminescent Stone Talus, behind breakable rocks.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 277795,
+      "name": "Fierce Deity Boots",
+      "set": "Fierce Deity",
+      "stats": "Attack Up",
+      "location": "Inside the  Ancient Tree Stump Cave , you need to go down around the water level, you'll see an area with branches that you can cut down. You'll need to climb.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 277051,
+      "name": "Climber's Bandana",
+      "set": "Climber's",
+      "stats": "Climb Speed Up",
+      "location": "At the end of the  Ploymus Mountain Cave , after climbing to the top of the cave",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 281819,
+      "name": "Climbing Boots",
+      "set": "Climber's",
+      "stats": "Climb Speed Up",
+      "location": "Inside  Upland Zorana Byroad Cave . From the  east cave entrance , keep right at the pool of water. Follow the path downward until you reach ruins. At the back of this area, there's a gate you can lift to lower the water level. Life the gate, then go right into a secret side area with a tent. Open the chest.",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 279261,
+      "name": "Zora Armor",
+      "set": "Zora Armor",
+      "stats": "Swim Speed Up",
+      "location": "Reward for completing  Restoring the Zora Armor",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 279700,
+      "name": "Zora Greaves",
+      "set": "Zora Armor",
+      "stats": "Swim Speed Up",
+      "location": "",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 279439,
+      "name": "Lightning Helm",
+      "set": "Standalone",
+      "stats": "Lightning Proof",
+      "location": "Complete 3 Yiga Challenges in the  Yiga Clan Hideout",
+      "region": "Gerudo Highlands"
+    },
+    {
+      "id": 284929,
+      "name": "Desert Voe Spaulder",
+      "set": "Desert Voe",
+      "stats": "Heat Resistance",
+      "location": "Gerudo Secret Club",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 284929,
+      "name": "Desert Voe Trousers",
+      "set": "Desert Voe",
+      "stats": "Heat Resistance",
+      "location": "Gerudo Secret Club",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279717,
+      "name": "Miner's Top",
+      "set": "Miner's",
+      "stats": "Glow",
+      "location": "??",
+      "region": "Depths"
+    },
+    {
+      "id": 279724,
+      "name": "Miner's Trousers",
+      "set": "Miner's",
+      "stats": "Glow",
+      "location": "-1287, -2251, -0707",
+      "region": "Depths"
+    },
+    {
+      "id": 279725,
+      "name": "Miner's Mask",
+      "set": "Miner's",
+      "stats": "Glow",
+      "location": "??",
+      "region": "Depths"
+    },
+    {
+      "id": 279591,
+      "name": "Barbarian Helm",
+      "set": "Barbarian",
+      "stats": "Attack Up",
+      "location": "At the end of the  Robred Dropoff Cave",
+      "region": "West Necluda"
+    },
+    {
+      "id": 279728,
+      "name": "Barbarian Leg Wraps",
+      "set": "Barbarian",
+      "stats": "Attack Up",
+      "location": "In the middle of the  Walnot Mountain Cave , jump across a gap on the higher ridge past an Ice Like.",
+      "region": "East Necluda"
+    },
+    {
+      "id": 279230,
+      "name": "Rubber Armor",
+      "set": "Rubber",
+      "stats": "Shock Resistance",
+      "location": "In the  Whistling Hill Cave . Behind a Shock Like, destroy an elevated cracked wall.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 276867,
+      "name": "Dark Trousers",
+      "set": "Dark",
+      "stats": "",
+      "location": "Sold by any  Bargainer Statue  for Poe.",
+      "region": "Depths"
+    },
+    {
+      "id": 276867,
+      "name": "Gaiters of the Depths",
+      "set": "Depths",
+      "stats": "Gloom Resistance",
+      "location": "Sold by any  Bargainer Statue  for 200 Poe",
+      "region": "Depths"
+    },
+    {
+      "id": 276867,
+      "name": "Dark Hood",
+      "set": "Dark",
+      "stats": "",
+      "location": "Sold by any  Bargainer Statue  for Poe.",
+      "region": "Depths"
+    },
+    {
+      "id": 276867,
+      "name": "Hood of the Depths",
+      "set": "Depths",
+      "stats": "Gloom Resistance",
+      "location": "Sold by any  Bargainer Statue  for 300 Poe.",
+      "region": "Depths"
+    },
+    {
+      "id": 279749,
+      "name": "Majora's Mask",
+      "set": "??",
+      "stats": "Makes it harder for certain enemies to spot you",
+      "location": "Complete  Floating Coliseum",
+      "region": "Depths"
+    },
+    {
+      "id": 280697,
+      "name": "Ember Trousers",
+      "set": "Ember",
+      "stats": "Hot Weather Attack",
+      "location": "In one of the chests inside the  Cephla Lake Cave",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 279951,
+      "name": "Cece Hat",
+      "set": "Standalone",
+      "stats": "",
+      "location": "",
+      "region": "East Necluda"
+    },
+    {
+      "id": 279995,
+      "name": "Frostbite Shirt",
+      "set": "Frostbite",
+      "stats": "Cold Weather Attack",
+      "location": "Inside  Brightcap Cave . Burn away thorns to reach the chest inside a tent.",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 280801,
+      "name": "Ravio's Hood",
+      "set": "Standalone",
+      "stats": "Increases sideways climbing speed.",
+      "location": "Reward for completing  Secluded Coliseum",
+      "region": "Depths"
+    },
+    {
+      "id": 280701,
+      "name": "Fierce Deity Mask",
+      "set": "Fierce Deity",
+      "stats": "Attack Up",
+      "location": "Inside the  Skull Lake Cave",
+      "region": "Deep Akkala"
+    },
+    {
+      "id": 280272,
+      "name": "Cap of the Wind",
+      "set": "Wind",
+      "stats": "",
+      "location": "Must access via  Tingel Island Chasm   and follow the path of destroyable rocks",
+      "region": "Depths"
+    },
+    {
+      "id": 280286,
+      "name": "Zonaite Shin Guards",
+      "set": "Zonaite Set",
+      "stats": "Energy Up",
+      "location": "Inside the spinning sphere. You'll need a heavy block from below to weigh down the button.",
+      "region": "Sky"
+    },
+    {
+      "id": 278299,
+      "name": "Evil Spirit Armor",
+      "set": "Evil Spirit",
+      "stats": "Stealth Up",
+      "location": "Reward for completing  The Lomei Labyrinth Island Prophecy  Side Quest",
+      "region": "Depths"
+    },
+    {
+      "id": 280463,
+      "name": "Vah Medoh Divine Helm",
+      "set": "Divine Helms",
+      "stats": "Cold Resistance",
+      "location": "Inside North Biron Snowshelf Cave as part of the Treasure of the Secret Springs quest.",
+      "region": "Hebra Mountains"
+    },
+    {
+      "id": 277835,
+      "name": "Ember Headdress",
+      "set": "Ember",
+      "stats": "Hot Weather Attack",
+      "location": "In  YunoboCo HQ South Cave",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 277118,
+      "name": "Fierce Deity Armor",
+      "set": "Fierce Deity",
+      "stats": "Attack Up",
+      "location": "Under the  Akkala Citadel Ruins , inside the  Akkala Citadel Ruins Summit Cave",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280705,
+      "name": "Ember Shirt",
+      "set": "Ember",
+      "stats": "Hot Weather Attack",
+      "location": "At the end of the  Goronbi River Cave",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 280710,
+      "name": "Frostbite Trousers",
+      "set": "Frostbite",
+      "stats": "Cold Weather Attack",
+      "location": "In  Hebra Headspring Cave",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 280462,
+      "name": "Frostbite Headdress",
+      "set": "Frostbite",
+      "stats": "Cold Weather Attack",
+      "location": "Chest behind a breakable wall in  Lake Kilsie Cave",
+      "region": "Hebra Mountains"
+    },
+    {
+      "id": 280483,
+      "name": "Soldier's Armor",
+      "set": "Soldier's",
+      "stats": "",
+      "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 280483,
+      "name": "Soldier's Helm",
+      "set": "Soldier's",
+      "stats": "",
+      "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 280483,
+      "name": "Soldier's Greaves",
+      "set": "Soldier's",
+      "stats": "",
+      "location": "In the  Royal Hidden Passage  tunnels, accessible through the hatch in  Observation Room",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 280772,
+      "name": "Midna's Helmet",
+      "set": "Standalone",
+      "stats": "Gloom resistance",
+      "location": "In the chest in the coliseum. defeat the waves of bokoblin to open the chest.",
+      "region": "Depths"
+    },
+    {
+      "id": 280778,
+      "name": "Vah Naboris Divine Helm",
+      "set": "Divine Helms",
+      "stats": "Shock Resistance",
+      "location": "At the end of the  West Gerudo Underground Ruins",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 280779,
+      "name": "Vah Rudania Divine Helm",
+      "set": "Divine Helms",
+      "stats": "Flame Guard",
+      "location": "In the  Lizard's Burrow",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 280781,
+      "name": "Vah Ruta Divine Helm",
+      "set": "Divine Helms",
+      "stats": "Swim Speed Up",
+      "location": "Behind the waterfall, at the end of the  Cave Under Zora's Domain .",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 280784,
+      "name": "Cap of the Wild",
+      "set": "Wild",
+      "stats": "",
+      "location": "On the jawbone of the big dragon skeleton",
+      "region": "Depths"
+    },
+    {
+      "id": 280785,
+      "name": "Tunic of the Wild",
+      "set": "Wild",
+      "stats": "",
+      "location": "On the jawbone of the big dragon skeleton",
+      "region": "Depths"
+    },
+    {
+      "id": 280786,
+      "name": "Trousers of the Wild",
+      "set": "Wild",
+      "stats": "",
+      "location": "On the jawbone of the big dragon skeleton",
+      "region": "Depths"
+    },
+    {
+      "id": 280798,
+      "name": "Tunic of the Wind",
+      "set": "Wind",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280804,
+      "name": "Tunic of the Hero",
+      "set": "Hero's",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280806,
+      "name": "Trousers of the Hero",
+      "set": "Hero's",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280813,
+      "name": "Cap of the Hero",
+      "set": "Hero's",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280816,
+      "name": "Trousers of Twilight",
+      "set": "Twilight",
+      "stats": "",
+      "location": "In the middle of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280819,
+      "name": "Tunic of Twilight",
+      "set": "Twilight",
+      "stats": "",
+      "location": "In the middle of the Rist Mine",
+      "region": "Depths"
+    },
+    {
+      "id": 280821,
+      "name": "Cap of Twilight",
+      "set": "Twilight",
+      "stats": "",
+      "location": "Appears in the middle of the arena, after beating  King Gleeok",
+      "region": "Depths"
+    },
+    {
+      "id": 280825,
+      "name": "Zant's Helmet",
+      "set": "Standalone",
+      "stats": "Unfreezable",
+      "location": "Complete  Scorching Coliseum",
+      "region": "Depths"
+    },
+    {
+      "id": 280829,
+      "name": "Trousers of the Sky",
+      "set": "Sky",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280831,
+      "name": "Cap of the Sky",
+      "set": "Sky",
+      "stats": "",
+      "location": "In the hollow tree trunk, guarded by an Evermean",
+      "region": "Depths"
+    },
+    {
+      "id": 280833,
+      "name": "Tunic of The Sky",
+      "set": "Sky",
+      "stats": "",
+      "location": "In the hollow tree trunk, guarded by an Evermean",
+      "region": "Depths"
+    },
+    {
+      "id": 280835,
+      "name": "Trousers of Time",
+      "set": "Time",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280838,
+      "name": "Tunic of Time",
+      "set": "Time",
+      "stats": "",
+      "location": "On top of the ruins",
+      "region": "Depths"
+    },
+    {
+      "id": 280839,
+      "name": "Cap of Time",
+      "set": "Time",
+      "stats": "",
+      "location": "On top stone pillar",
+      "region": "Depths"
+    },
+    {
+      "id": 280844,
+      "name": "Island Lobster Shirt",
+      "set": "Standalone",
+      "stats": "Heat Resistance",
+      "location": "Under a ship, in the water - use ultrahand to get it out",
+      "region": "East Necluda"
+    },
+    {
+      "id": 280845,
+      "name": "Phantom Armor",
+      "set": "Phantom",
+      "stats": "Attack Up",
+      "location": "At the end of the  Tamio River Downstream Cave , behind destructible wall",
+      "region": "Gerudo Highlands"
+    },
+    {
+      "id": 280847,
+      "name": "Phantom Greaves",
+      "set": "Phantom",
+      "stats": "Attack Up",
+      "location": "In the  Ancient Altar Ruins",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 280849,
+      "name": "Phantom Helmet",
+      "set": "Phantom",
+      "stats": "Attack Up",
+      "location": "In the  Puffer Beach Overhead Cave",
+      "region": "Faron Grasslands"
+    },
+    {
+      "id": 280853,
+      "name": "Tunic of Awakening",
+      "set": "Awakening",
+      "stats": "",
+      "location": "In the  Ancient Columns Cave",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 280862,
+      "name": "Mask of Awakening",
+      "set": "Awakening",
+      "stats": "",
+      "location": "Inside  Thundra Plateau Cave",
+      "region": "Hyrule Ridge"
+    },
+    {
+      "id": 280866,
+      "name": "Trousers of Awakening",
+      "set": "Awakening",
+      "stats": "",
+      "location": "In the  Coliseum Ruins Cave",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 280531,
+      "name": "Tingle's Shirt",
+      "set": "Tingle's",
+      "stats": "",
+      "location": "Inside the  Dueling Peaks South Cave",
+      "region": "West Necluda"
+    },
+    {
+      "id": 280871,
+      "name": "Tingle's Hood",
+      "set": "Tingle's",
+      "stats": "",
+      "location": "At the end of the  Statue of the Eighth Heroine Cave , use fan to blow the sand away from the chest",
+      "region": "Gerudo Highlands"
+    },
+    {
+      "id": 280875,
+      "name": "Tingle's Tights",
+      "set": "Tingle's",
+      "stats": "",
+      "location": "Behind a pile of boxes, on a ship",
+      "region": "East Necluda"
+    },
+    {
+      "id": 281125,
+      "name": "Evil Spirit Greaves",
+      "set": "Evil Spirit",
+      "stats": "Stealth Up",
+      "location": "Reward for completing  The North Lomei Prophecy .",
+      "region": "Depths"
+    },
+    {
+      "id": 280877,
+      "name": "Evil Spirit Mask",
+      "set": "Evil Spirit",
+      "stats": "Stealth Up",
+      "location": "Reward for completing The South Lomei Prophecy Side Quest",
+      "region": "Depths"
+    },
+    {
+      "id": 280936,
+      "name": "Bokoblin Mask",
+      "set": "Kilton's Monster Masks",
+      "stats": "Blend in with Bokoblins.",
+      "location": "Koltin Shop  Item #1",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Moblin Mask",
+      "set": "Kilton's Monster Masks",
+      "stats": "Blend in with Moblins.",
+      "location": "Koltin Shop  Item #2",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Mystic Robe",
+      "set": "Mystic",
+      "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+      "location": "Koltin Shop  Item #4",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Lizalfos Mask",
+      "set": "Kilton's Monster Masks",
+      "stats": "Blend in with Lizalfos.",
+      "location": "Koltin Shop  Item #6",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 277846,
+      "name": "Froggy Sleeve",
+      "set": "Froggy",
+      "stats": "Slip Resistance",
+      "location": "Reward for completing  Potential Princess Sightings",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 277846,
+      "name": "Froggy Leggings",
+      "set": "Froggy",
+      "stats": "Slip Resistance",
+      "location": "Reward for completing  Potential Princess Sightings",
+      "region": "Tabantha Frontier"
+    },
+    {
+      "id": 277852,
+      "name": "Bokoblin Mask",
+      "set": "Standalone",
+      "stats": "Blend in with Bokoblins",
+      "location": "Reward for completing  The Hunt For Bubbul Gems!",
+      "region": "Eldin Canyon"
+    },
+    {
+      "id": 280936,
+      "name": "Mystic Trousers",
+      "set": "Mystic",
+      "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+      "location": "Koltin Shop  item #8",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Mystic Headpiece",
+      "set": "Mystic",
+      "stats": "Rupee Padding - lose Rupees instead of health when taking damage.",
+      "location": "Koltin Shop  Item #14",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Horriblin Mask",
+      "set": "Kilton's Monster Masks",
+      "stats": "Blend in with Horriblins.",
+      "location": "Koltin Shop  Item #10",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 280936,
+      "name": "Lynel Mask",
+      "set": "Kilton's Monster Masks",
+      "stats": "Blend in with Lynels for a while.",
+      "location": "Koltin Shop  Item #12",
+      "region": "Akkala Highlands"
+    },
+    {
+      "id": 282073,
+      "name": "Rubber Helm",
+      "set": "Rubber",
+      "stats": "Shock Resistance",
+      "location": "At the end of the  Sarjon Woods Cave , after the waterfall",
+      "region": "Faron Grasslands"
+    },
+    {
+      "id": 280514,
+      "name": "Rubber Tights",
+      "set": "Rubber",
+      "stats": "Shock Resistance",
+      "location": "Behind destructible wall in the  Horon Lagoon Cave",
+      "region": "Lanayru Great Spring"
+    },
+    {
+      "id": 282574,
+      "name": "Charged Headdress",
+      "set": "Charged",
+      "stats": "Stormy Weather Attack",
+      "location": "Dracozu Lake, follow the river and search for the tall dragon-head statues, the headdress will be hidden on an altar beneath this statue.",
+      "region": "West Necluda"
+    },
+    {
+      "id": 282577,
+      "name": "Charged Trousers",
+      "set": "Charged",
+      "stats": "Stormy Weather Attack",
+      "location": "Dracozu Lake, Beneath a tall dragon statue, there is a doorway with a breakable boulder behind it. The trousers are in a chest in the altar beyond",
+      "region": "West Necluda"
+    },
+    {
+      "id": 282578,
+      "name": "Charged Shirt",
+      "set": "Charged",
+      "stats": "Stormy Weather Attack",
+      "location": "Dracozu Lake, in a chest above where Tauro investigates a hieroglyph.",
+      "region": "West Necluda"
+    },
+    {
+      "id": 284518,
+      "name": "Archaic Legwear",
+      "set": "Archaic",
+      "stats": "",
+      "location": "Room of Awakening in a chest near the door leading outside to the Great Sky Island.",
+      "region": "Great Sky Island"
+    },
+    {
+      "id": 284929,
+      "name": "Sand Boots",
+      "set": "Standalone",
+      "stats": "Sand Speed Up",
+      "location": "Gerudo Secret Club",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 284929,
+      "name": "Snow Boots",
+      "set": "Standalone",
+      "stats": "Snow Speed Up",
+      "location": "Gerudo Secret Club",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279349,
+      "name": "Opal Earrings",
+      "set": "Standalone",
+      "stats": "Swim Speed Up",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279349,
+      "name": "Topaz Earrings",
+      "set": "Standalone",
+      "stats": "Shock Resistance",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 279349,
+      "name": "Diamond Circlet",
+      "set": "Standalone",
+      "stats": "Attack Up",
+      "location": "Starlight Memories  (Jewelry Shop)",
+      "region": "Gerudo Desert"
+    },
+    {
+      "id": 276867,
+      "name": "Tunic of the Depths",
+      "set": "Depths",
+      "stats": "Gloom Resistance",
+      "location": "Sold by any  Bargainer Statue  for 150 Poe",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 284432,
+      "name": "Ancient Hero's Aspect",
+      "set": "Ancient Hero's Aspect",
+      "stats": "12 Defence",
+      "location": "Appears behind the Goddess Statue in the Temple of Time, after completing  The Shrine Explorer ,",
+      "region": "Great Sky Island"
+    },
+    {
+      "id": 289436,
+      "name": "Tunic of Memories",
+      "set": "None",
+      "stats": "",
+      "location": "Sold by any Bargainer Statue for 400 Poes, after finding all 7 of them.",
+      "region": "Hyrule Field"
+    },
+    {
+      "id": 937535,
+      "name": "Royal Guard's Cap",
+      "set": "Royal Guard's Set",
+      "stats": "Adds 4 armor, upgradable.",
+      "location": "Tower across from Princess Zelda's Study. In a chest",
+      "region": "Hyrule Field"
+    }
+  ]
+}

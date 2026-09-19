@@ -1,0 +1,1885 @@
+[
+  {
+    "id": 278137,
+    "name": "Frox (Scourge of the Depths)",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 278156,
+    "name": "Frox (Scourge of the Depths)",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 278173,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281437,
+    "name": "Frox (Scourge of the Depths)",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281764,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286582,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "Side quest objective for  Unknown Huge Silhouette",
+    "region": "Depths"
+  },
+  {
+    "id": 282319,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282366,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282393,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282396,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282421,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282436,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282462,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282497,
+    "name": "Frox (Scourge of the Depths)",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282517,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "Reward:  Zonaite, Frox Parts",
+    "region": "Depths"
+  },
+  {
+    "id": 282616,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282633,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282668,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282709,
+    "name": "Blue White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282740,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282755,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282788,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282791,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283126,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283129,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283141,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283888,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284331,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284336,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284519,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284873,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284874,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284980,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284982,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285944,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285945,
+    "name": "Blue-White Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285946,
+    "name": "Obsidian Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285947,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285948,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285949,
+    "name": "Frox",
+    "type": "Frox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 276876,
+    "name": "Hinox (Carok Bridge)",
+    "type": "Hinox",
+    "info": "Location:  Sleeping on Carok Bridge",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 277751,
+    "name": "Hinox (Rowan Plain)",
+    "type": "Hinox",
+    "info": "Location:  Rowan Plain",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 277995,
+    "name": "The Eldest Hinox Brother",
+    "type": "Hinox",
+    "info": "Location:   Calora Lake Cave  - down the platforms near the entrance. Part of  Ousting the Giants .",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 278097,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "Location:  Forest Colliseum",
+    "region": "Depths"
+  },
+  {
+    "id": 277860,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "Location:  South of  Sijotu Lightroot",
+    "region": "Depths"
+  },
+  {
+    "id": 278260,
+    "name": "Black Hinox (Aris Beach)",
+    "type": "Hinox",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 278335,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Eldin Mountains"
+  },
+  {
+    "id": 279341,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 279515,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 279598,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 281480,
+    "name": "Hinox (Trilby Plain)",
+    "type": "Hinox",
+    "info": "Objective for  WANTED: Hinox  side quest.",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 280012,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 280040,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 280634,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280685,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281426,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 280989,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "Location:   North Akkala Beach Cave",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 281469,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 281592,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 281640,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 281670,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281686,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 281694,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 281696,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282158,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "Inside the  Ulria Grotto East Cave  \n  Coordinates:  4426, 0740, 0111",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 281869,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 281893,
+    "name": "The Middle Hinox Brother",
+    "type": "Hinox",
+    "info": "Location:   Corta Lake Cave  - From the southern entrance, fall down the hole, then destroy the rock pile at the end to reveal an updraft. Glide it up to the Hinox. Part of  Ousting the Giants .",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 282070,
+    "name": "The Youngest Hinox Brother",
+    "type": "Hinox",
+    "info": "Location:   Rodai Lakefront Tunnel  - Fall down the hole into the water, then follow the cave north to the Hinox. Part of  Ousting the Giants .",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 282097,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282115,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282339,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 282371,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 282620,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 282642,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 282667,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282748,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 277791,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "Shrine quest objective. Found inside the  Satori Mountain Foothill Cave . Defeat it to get  The Satori Mountain Crystal .",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 283127,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284295,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284308,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284366,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 284449,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "East Necluda"
+  },
+  {
+    "id": 284646,
+    "name": "Hinox (Gloom)",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 285980,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286375,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286384,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "Black Hinox",
+    "region": "Depths"
+  },
+  {
+    "id": 286385,
+    "name": "Black Hinox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286534,
+    "name": "Blue Hinox",
+    "type": "Hinox",
+    "info": "Found in the middle of the 3 buildings",
+    "region": "Depths"
+  },
+  {
+    "id": 286699,
+    "name": "Hinox",
+    "type": "Hinox",
+    "info": "Part of the Main Story Quest &quot;Crisis at Hyrule Castle&quot;",
+    "region": "Hyrule Castle"
+  },
+  {
+    "id": 279233,
+    "name": "Red-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 279235,
+    "name": "White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 279236,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 279279,
+    "name": "Armored White/Silver Lynel",
+    "type": "Lynel",
+    "info": "Location:  ?? \n Has a shield.",
+    "region": "Depths"
+  },
+  {
+    "id": 279399,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Lanayru Wetlands"
+  },
+  {
+    "id": 279915,
+    "name": "Blue/White/Silver-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 280031,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 280081,
+    "name": "Red-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280201,
+    "name": "Red-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280206,
+    "name": "Red-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280255,
+    "name": "Armored Silver Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 280409,
+    "name": "White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 280492,
+    "name": "Blue/White/Silver-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 280774,
+    "name": "Armored Red Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281032,
+    "name": "Armored White/Silver Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281070,
+    "name": "Blue / White / Silver Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Lanayru Wetlands"
+  },
+  {
+    "id": 281425,
+    "name": "Armored Red Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281580,
+    "name": "White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 281687,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 281763,
+    "name": "Armored White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282468,
+    "name": "Armored Silver Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282597,
+    "name": "Blue/White/Silver-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283056,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 284270,
+    "name": "Armored Silver Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284307,
+    "name": "Armored White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284314,
+    "name": "Armored Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284456,
+    "name": "Armored Blue Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284988,
+    "name": "Armored Silver-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284989,
+    "name": "Silver-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284990,
+    "name": "White-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284991,
+    "name": "Blue-Maned Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284992,
+    "name": "Red Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286376,
+    "name": "Armored White Lynel",
+    "type": "Lynel",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286381,
+    "name": "Armored Blue Lynel",
+    "type": "Lynel",
+    "info": "May be white or silver.",
+    "region": "Depths"
+  },
+  {
+    "id": 281481,
+    "name": "Molduga (East Barrens)",
+    "type": "Molduga",
+    "info": "Side quest objective for  WANTED: Molduga",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 282323,
+    "name": "Molduga",
+    "type": "Molduga",
+    "info": "",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 282558,
+    "name": "Molduga",
+    "type": "Molduga",
+    "info": "Palu Wasteland South",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 284282,
+    "name": "Molduga",
+    "type": "Molduga",
+    "info": "",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 276702,
+    "name": "Flux Construct I (Great Sky Island)",
+    "type": "Flux Construct",
+    "info": "Location:  On the large circular floating platform",
+    "region": "Great Sky Island"
+  },
+  {
+    "id": 277777,
+    "name": "Flux Construct I (Guardian of North Hyrule Sky Archipelago)",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 279544,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 279685,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "Location:  ??",
+    "region": "Sky"
+  },
+  {
+    "id": 279827,
+    "name": "Flux Construct II (Guardian of Sokkala Sky Archipelago)",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 279851,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 286698,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "Shrine quest objective for  The Necluda Sky Crystal",
+    "region": "Sky"
+  },
+  {
+    "id": 286583,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "Side Quest Objective for  Unknown Sky Giant",
+    "region": "Sky"
+  },
+  {
+    "id": 280284,
+    "name": "Flux Construct I",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 280460,
+    "name": "Flux Construct I (Rising Island Chain)",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 280503,
+    "name": "Flux Construct II (Guardian of Wellspring Island)",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 280967,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 281074,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 281928,
+    "name": "Flux Construct I",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282085,
+    "name": "Flux Construct II (Lanayru Sky Archipelago)",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 282154,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282516,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282518,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "Reward:  Large Crystallized Charge, Zonai Devices, Zonaite, Flux Core III",
+    "region": "Depths"
+  },
+  {
+    "id": 282634,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282690,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282751,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283058,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Sky"
+  },
+  {
+    "id": 283117,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283124,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283140,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "Within arena through cave",
+    "region": "Depths"
+  },
+  {
+    "id": 284244,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284283,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "In the middle of the circular platform",
+    "region": "Depths"
+  },
+  {
+    "id": 284284,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "North of the Abandoned Lanayru Mine, on a circular platform",
+    "region": "Depths"
+  },
+  {
+    "id": 284285,
+    "name": "Flux Construct I",
+    "type": "Flux Construct",
+    "info": "North East of Kawiraus Lightroot, on a circular platform",
+    "region": "Depths"
+  },
+  {
+    "id": 284292,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "South East of Sikutamak Lightroot, on a circular platform",
+    "region": "Depths"
+  },
+  {
+    "id": 284294,
+    "name": "Flux Construct I",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284304,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "East of Kawumoro Lightroot, South of Aduon Lightroot, on a circular platform",
+    "region": "Depths"
+  },
+  {
+    "id": 284306,
+    "name": "Flux Construct II",
+    "type": "Flux Construct",
+    "info": "South of Netamnet Lightroot",
+    "region": "Depths"
+  },
+  {
+    "id": 284443,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284497,
+    "name": "Flux Construct III",
+    "type": "Flux Construct",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 276820,
+    "name": "Battle Talus (Sahasra Slope)",
+    "type": "Talus",
+    "info": "Location:  Patrolling north-west of  Sahasra Slope Skyview Tower",
+    "region": "West Necluda"
+  },
+  {
+    "id": 279643,
+    "name": "Battle Talus (North Hyrule Plain)",
+    "type": "Talus",
+    "info": "Reward:   Lizal Reaper",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 278221,
+    "name": "Igneo Talus (Death Mountain East Tunnel)",
+    "type": "Talus",
+    "info": "Location:   Death Mountain East Tunnel",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 279597,
+    "name": "Battle Talus (Romani Plains)",
+    "type": "Talus",
+    "info": "Found a battle Talus here guarding a chest.",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 279639,
+    "name": "Luminous Stone Talus (Crenel Hills Cave)",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 279767,
+    "name": "Battle Talus (Hyrule Castle West)",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 279781,
+    "name": "Battle Talus (Crenel Road)",
+    "type": "Talus",
+    "info": "Location:  Crenel Road",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 280014,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 280018,
+    "name": "Battle Talus (Windvane Meadow)",
+    "type": "Talus",
+    "info": "Enemies: \nBokoblins and Battle Talus \n  Reward: \nRuby",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 280120,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 280145,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 280174,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "Location:  Under the bridge.",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 280452,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280469,
+    "name": "Battle Talus (Hills of Baumer)",
+    "type": "Talus",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 280497,
+    "name": "Rare Stone Talus (Tanagar Canyon)",
+    "type": "Talus",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 280505,
+    "name": "Igneo Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 279311,
+    "name": "Luminous Stone Talus (Deya Village Ruins Well)",
+    "type": "Talus",
+    "info": "Stone talus (Luminous)   \n On the island inside the  Deya Village Ruins Well",
+    "region": "West Necluda"
+  },
+  {
+    "id": 282681,
+    "name": "Rare Stone Talus",
+    "type": "Talus",
+    "info": "Inside  Taafei Hill Cave .",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 278368,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "First fight will give the crystal for the  Sisuran Shrine",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 281128,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 281658,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 281695,
+    "name": "Battle Talus (Batrea Lake East)",
+    "type": "Talus",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 281901,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 282014,
+    "name": "Igneo Talus - Lake Darman",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Mountains"
+  },
+  {
+    "id": 283439,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "Related Quest:   None Shall Pass?",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 282137,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Mountains"
+  },
+  {
+    "id": 282144,
+    "name": "Gloom Igneo Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282148,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282310,
+    "name": "Igneo Talus - Eldin Eastern Highlands",
+    "type": "Talus",
+    "info": "",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 282354,
+    "name": "Luminous Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282355,
+    "name": "Igneo Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282356,
+    "name": "Rare Stone Talus (North Akkala Beach)",
+    "type": "Talus",
+    "info": "",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 282370,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 282392,
+    "name": "Stone Talus (Luminous)",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282410,
+    "name": "Gloom Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286540,
+    "name": "Battle Talus (Great Plateau)",
+    "type": "Talus",
+    "info": "Reward:   Ruby [Chest]",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 282433,
+    "name": "Stone Talus (Rare)",
+    "type": "Talus",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 282482,
+    "name": "Rare Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282491,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282555,
+    "name": "Battle Talus (Gama Cove)",
+    "type": "Talus",
+    "info": "",
+    "region": "East Necluda"
+  },
+  {
+    "id": 282590,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "Reward:  Sapphire [Chest]",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 282632,
+    "name": "Stone Talus (Gloom)",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282637,
+    "name": "Stone Talus (Rare)",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282685,
+    "name": "Igneo Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282691,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 282698,
+    "name": "Gloom Luminous Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282700,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282711,
+    "name": "Rare Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282717,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282738,
+    "name": "Luminous Stone Talus (Ovli Plain)",
+    "type": "Talus",
+    "info": "",
+    "region": "East Necluda"
+  },
+  {
+    "id": 282744,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 282745,
+    "name": "Igneo Talus - Goro Cove",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 282789,
+    "name": "Igneo Talus (Goronbi River West)",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 283123,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 281482,
+    "name": "Stone Talus (North Akkala Foothill)",
+    "type": "Talus",
+    "info": "Part of the side quest  WANTED: Stone Talus",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 283277,
+    "name": "Luminous Talus (Ancient Zora Waterworks)",
+    "type": "Talus",
+    "info": "Located in the Ancient Zora Waterworks",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 283286,
+    "name": "Frost Talus (Lanayru Range North)",
+    "type": "Talus",
+    "info": "",
+    "region": "Mount Lanayru"
+  },
+  {
+    "id": 283304,
+    "name": "Rare Stone Talus (Horse God Bridge West)",
+    "type": "Talus",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 283307,
+    "name": "Rare Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283354,
+    "name": "Rare Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 283906,
+    "name": "Luminous Stone Talus (Trilby Valley)",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 284297,
+    "name": "Rare Stone Talus (Guchini Plain)",
+    "type": "Talus",
+    "info": "",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 284309,
+    "name": "Stone Talus (Rare)",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284312,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 284313,
+    "name": "Rare Stone Talus (Lake Floria)",
+    "type": "Talus",
+    "info": "Lake Floria Stone Talus",
+    "region": "Faron Grasslands"
+  },
+  {
+    "id": 284315,
+    "name": "Battle Talus (South Akkala Plains West)",
+    "type": "Talus",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 284339,
+    "name": "Stone Talus (Luminous) - Ulria Grotto South Cave",
+    "type": "Talus",
+    "info": "Inside [Ulria Grotto South Cave](), to the right of blue breakable rocks.",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 289750,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "Reward:   Gnarled Wooden Stick [Chest]",
+    "region": "Akkala Highlands"
+  },
+  {
+    "id": 284454,
+    "name": "Luminous Talus (Loshlo Harbor West)",
+    "type": "Talus",
+    "info": "",
+    "region": "East Necluda"
+  },
+  {
+    "id": 284455,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "Has 3 Gloom Blue Bokoblins ontop.",
+    "region": "Depths"
+  },
+  {
+    "id": 284490,
+    "name": "Luminous Gloom Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284516,
+    "name": "Stone Talus (Luminous) - Tal Tal Peak",
+    "type": "Talus",
+    "info": "On the plateau",
+    "region": "Lanayru Great Spring"
+  },
+  {
+    "id": 284520,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 284647,
+    "name": "Luminous Stone Talus (Tamio River)",
+    "type": "Talus",
+    "info": "",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 284879,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "On top of the cliff",
+    "region": "Gerudo Desert"
+  },
+  {
+    "id": 284981,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281202,
+    "name": "Luminous Talus (Byroad to Lanayru Wetlands)",
+    "type": "Talus",
+    "info": "Found underground, through the  Byroad to Lanayru Wetlands  tunnel.",
+    "region": "West Necluda"
+  },
+  {
+    "id": 285977,
+    "name": "Frost Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286361,
+    "name": "Stone Talus (Rare)",
+    "type": "Talus",
+    "info": "",
+    "region": "Great Hyrule Forest"
+  },
+  {
+    "id": 286362,
+    "name": "Stone Talus (Luminous) - Gut Check Rock",
+    "type": "Talus",
+    "info": "",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 286392,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286393,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286394,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286395,
+    "name": "Battle Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286397,
+    "name": "Luminous Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286398,
+    "name": "Stone Talus",
+    "type": "Talus",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286459,
+    "name": "Stone Talus (Luminous)",
+    "type": "Talus",
+    "info": "Coordinates : -2237, -0564, -0716",
+    "region": "Depths"
+  },
+  {
+    "id": 278157,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 280084,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 280633,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "Buried under the large pile of rocks inside the Tanagar Canyon East cave. You will have to destroy enough of the large rocks for it to then get up to start the battle.",
+    "region": "Hyrule Ridge"
+  },
+  {
+    "id": 280651,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Tabantha Frontier"
+  },
+  {
+    "id": 281602,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "Found in Royal Hidden Passage, which accessible via Hyrule Castle, or via a door in the Emergency Shelter (unlocked after completing one Regional Phenomena).",
+    "region": "Hyrule Field"
+  },
+  {
+    "id": 281685,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281849,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 281850,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 280701,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "Location:   Skull Lake Cave  - in the main chamber",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 282556,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 282583,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Eldin Canyon"
+  },
+  {
+    "id": 279328,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "Inside the  Zauz Island Well , behind the breakable rocks.",
+    "region": "Lanayru Wetlands"
+  },
+  {
+    "id": 282703,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "East Necluda"
+  },
+  {
+    "id": 284441,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "West Necluda"
+  },
+  {
+    "id": 284491,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286372,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286373,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286382,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286383,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  },
+  {
+    "id": 286399,
+    "name": "Stalnox",
+    "type": "Hinox",
+    "info": "",
+    "region": "Depths"
+  }
+]

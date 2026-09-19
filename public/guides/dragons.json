@@ -1,0 +1,26 @@
+[
+  {
+    "id": 276837,
+    "name": "Farosh, Lightning Dragon",
+    "info": "Location:  Flies clockwise between  East Gerudo Chasm  and  Hills of Baumer Chasm  (and completes the circle in The Depths)",
+    "region": "Gerudo Highlands"
+  },
+  {
+    "id": 278304,
+    "name": "Light Dragon",
+    "info": "Location:  Circles the entire map high in the sky (passes all the Geoglyphs)",
+    "region": "Hebra Mountains"
+  },
+  {
+    "id": 277435,
+    "name": "Dinraal, Fire Dragon",
+    "info": "Location:  Flies from east to west along the coast north coast between  East Akkala Plains Chasm  and  Drenan Highlands Chasm  (and repeats the cycle in the Depths)",
+    "region": "Deep Akkala"
+  },
+  {
+    "id": 277045,
+    "name": "Naydra, Frost Dragon",
+    "info": "Location:  Flies in a clockwise circle between  Naydra Snowfield Chasm  and  East Hill Chasm  - and completes the cycle in The Depths",
+    "region": "Mount Lanayru"
+  }
+]
