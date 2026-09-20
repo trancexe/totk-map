@@ -95,15 +95,15 @@ class App {
     // 4. Initialize UI
     this.ui = new UIController('app', {
       onWorldChange: async (world) => {
-        await storage.updatePlayerState({ world });
         mapController.switchWorld(world);
+        await storage.updatePlayerState({ world });
         this.syncMapVisuals();
         this.ui.render();
       },
       onSelectLocation: (loc) => {
-        if (storage.getPlayerState().world !== loc.world) {
-          storage.updatePlayerState({ world: loc.world });
+        if (mapController.getCurrentWorld() !== loc.world) {
           mapController.switchWorld(loc.world);
+          storage.updatePlayerState({ world: loc.world });
         }
         mapController.flyToLocation(loc.lat, loc.lng);
         this.ui.showLocationDetail(loc);

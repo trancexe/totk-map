@@ -252,7 +252,6 @@ export class MapController {
     playerState: PlayerState
   ): void {
     if (!this.map || !this.isLoaded) return;
-    this.currentWorld = playerState.world;
 
     const completedOpacity = playerState.dimCompleted ? 0.35 : 1.0;
     const activeCatSet = new Set(playerState.activeCategories);
@@ -342,9 +341,9 @@ export class MapController {
   switchWorld(world: WorldType): void {
     if (!this.map) return;
     const oldWorld = this.currentWorld;
-    this.currentWorld = world;
 
     if (oldWorld === world) return;
+    this.currentWorld = world;
 
     const center = this.map.getCenter();
     const currentZoom = this.map.getZoom();
@@ -363,6 +362,10 @@ export class MapController {
       zoom: targetZoom,
       duration: 600,
     });
+  }
+
+  getCurrentWorld(): WorldType {
+    return this.currentWorld;
   }
 
   flyToLocation(lat: number, lng: number, zoom = 15): void {
