@@ -85,6 +85,8 @@ export interface PlayerState {
   dimCompleted: boolean;
   activeCategories: number[]; // array of enabled category IDs
   searchQuery: string;
+  mapCenter?: [number, number] | null;
+  mapZoom?: number | null;
 }
 
 export interface ChecklistExport {

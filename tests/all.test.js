@@ -151,3 +151,38 @@ describe('3. Core Data Integrity & Offline Assets', () => {
     assert.equal(parsedManifest.display, 'standalone');
   });
 });
+
+describe('4. Layer Transitions & Viewport Math Suite', () => {
+  const WORLD_LAT_OFFSETS = {
+    sky: 0.3430,
+    surface: 0,
+    depths: -0.3239,
+  };
+
+  const WORLD_VIEWPORTS = {
+    sky: { center: [-0.692, 1.036], zoom: 12 },
+    surface: { center: [-0.692, 0.702], zoom: 12 },
+    depths: { center: [-0.692, 0.375], zoom: 12 },
+  };
+
+  test('all world viewports share identical center longitude', () => {
+    assert.equal(WORLD_VIEWPORTS.sky.center[0], -0.692);
+    assert.equal(WORLD_VIEWPORTS.surface.center[0], -0.692);
+    assert.equal(WORLD_VIEWPORTS.depths.center[0], -0.692);
+  });
+
+  test('relative latitude offset translation is symmetrical and lossless', () => {
+    const originalLat = 0.702; // surface
+    const skyLat = originalLat + (WORLD_LAT_OFFSETS.sky - WORLD_LAT_OFFSETS.surface);
+    assert.ok(Math.abs(skyLat - 1.045) < 0.001);
+
+    const backToSurface = skyLat + (WORLD_LAT_OFFSETS.surface - WORLD_LAT_OFFSETS.sky);
+    assert.ok(Math.abs(backToSurface - originalLat) < 0.00001);
+
+    const depthsLat = originalLat + (WORLD_LAT_OFFSETS.depths - WORLD_LAT_OFFSETS.surface);
+    assert.ok(Math.abs(depthsLat - 0.3781) < 0.001);
+
+    const depthsToSky = depthsLat + (WORLD_LAT_OFFSETS.sky - WORLD_LAT_OFFSETS.depths);
+    assert.ok(Math.abs(depthsToSky - skyLat) < 0.00001);
+  });
+});

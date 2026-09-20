@@ -14,6 +14,8 @@ const DEFAULT_PLAYER_STATE: PlayerState = {
   dimCompleted: true,
   activeCategories: [],
   searchQuery: '',
+  mapCenter: null,
+  mapZoom: null,
 };
 
 export class StorageEngine {
@@ -95,14 +97,16 @@ export class StorageEngine {
     return this.playerState;
   }
 
-  async updatePlayerState(partial: Partial<PlayerState>): Promise<void> {
+  async updatePlayerState(partial: Partial<PlayerState>, notify = true): Promise<void> {
     this.playerState = { ...this.playerState, ...partial };
     try {
       await set(PLAYER_STATE_KEY, this.playerState);
     } catch (e) {
       console.warn('Failed to persist player state:', e);
     }
-    this.notify();
+    if (notify) {
+      this.notify();
+    }
   }
 
   private async persistCompleted(): Promise<void> {

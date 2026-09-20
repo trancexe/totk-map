@@ -69,16 +69,28 @@ class App {
     mapController.setLocations(this.locations);
 
     // 3. Initialize Map
-    await mapController.init('map', {
-      onLocationClick: (loc) => {
-        this.ui.showLocationDetail(loc);
+    const savedState = storage.getPlayerState();
+    await mapController.init(
+      'map',
+      {
+        onLocationClick: (loc) => {
+          this.ui.showLocationDetail(loc);
+        },
+        onMapClickCoord: (lat, lng) => {
+          if (this.isAnchorMode) {
+            this.setPlayerAnchor(lat, lng);
+          }
+        },
+        onCameraChange: (center, zoom) => {
+          storage.updatePlayerState({ mapCenter: center, mapZoom: zoom }, false);
+        },
       },
-      onMapClickCoord: (lat, lng) => {
-        if (this.isAnchorMode) {
-          this.setPlayerAnchor(lat, lng);
-        }
-      },
-    });
+      {
+        center: savedState.mapCenter,
+        zoom: savedState.mapZoom,
+        world: savedState.world,
+      }
+    );
 
     // 4. Initialize UI
     this.ui = new UIController('app', {
@@ -127,8 +139,6 @@ class App {
       await storage.updatePlayerState({ activeCategories: allCatIds });
     }
 
-    const initialState = storage.getPlayerState();
-    mapController.switchWorld(initialState.world);
     this.syncMapVisuals();
     this.ui.render();
 

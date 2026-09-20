@@ -9,12 +9,25 @@ setWorkerUrl(`${basePath}/maplibre-gl-worker.mjs`);
 export interface MapControllerCallbacks {
   onLocationClick: (loc: LocationItem) => void;
   onMapClickCoord: (lat: number, lng: number) => void;
+  onCameraChange?: (center: [number, number], zoom: number) => void;
+}
+
+export interface MapInitialView {
+  center?: [number, number] | null;
+  zoom?: number | null;
+  world?: WorldType;
 }
 
 export const WORLD_VIEWPORTS: Record<WorldType, { center: [number, number]; zoom: number }> = {
   sky: { center: [-0.692, 1.036], zoom: 12 },
   surface: { center: [-0.692, 0.702], zoom: 12 },
-  depths: { center: [-0.702, 0.375], zoom: 12 },
+  depths: { center: [-0.692, 0.375], zoom: 12 },
+};
+
+export const WORLD_LAT_OFFSETS: Record<WorldType, number> = {
+  sky: 0.3430,
+  surface: 0,
+  depths: -0.3239,
 };
 
 const MARKERS_SOURCE_ID = 'totk-markers-source';
@@ -31,8 +44,27 @@ export class MapController {
   private isLoaded = false;
   private currentWorld: WorldType = 'surface';
 
-  init(containerId: string, callbacks: MapControllerCallbacks): Promise<void> {
+  init(
+    containerId: string,
+    callbacks: MapControllerCallbacks,
+    initialView?: MapInitialView
+  ): Promise<void> {
     const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+    this.currentWorld = initialView?.world ?? 'surface';
+    const defaultViewport = WORLD_VIEWPORTS[this.currentWorld];
+
+    const initialCenter =
+      initialView?.center &&
+      Number.isFinite(initialView.center[0]) &&
+      Number.isFinite(initialView.center[1])
+        ? initialView.center
+        : defaultViewport.center;
+
+    const initialZoom =
+      initialView?.zoom != null && Number.isFinite(initialView.zoom)
+        ? initialView.zoom
+        : defaultViewport.zoom;
+
     return new Promise((resolve) => {
       // MapLibre configuration for custom non-Mercator Hyrule raster tiles
       this.map = new MapLibreMap({
@@ -69,8 +101,8 @@ export class MapController {
             },
           ],
         },
-        center: WORLD_VIEWPORTS.surface.center,
-        zoom: WORLD_VIEWPORTS.surface.zoom,
+        center: initialCenter,
+        zoom: initialZoom,
         minZoom: 9,
         maxZoom: 18,
         dragRotate: false,
@@ -190,6 +222,21 @@ export class MapController {
         callbacks.onMapClickCoord(e.lngLat.lat, e.lngLat.lng);
       }
     });
+
+    // Camera movement tracking with 300ms debounce
+    let moveDebounceTimer: ReturnType<typeof setTimeout> | null = null;
+    this.map.on('moveend', () => {
+      if (!callbacks.onCameraChange || !this.map) return;
+      if (moveDebounceTimer) clearTimeout(moveDebounceTimer);
+      moveDebounceTimer = setTimeout(() => {
+        if (!this.map || !callbacks.onCameraChange) return;
+        const c = this.map.getCenter();
+        const z = this.map.getZoom();
+        if (c && Number.isFinite(c.lng) && Number.isFinite(c.lat) && Number.isFinite(z)) {
+          callbacks.onCameraChange([c.lng, c.lat], z);
+        }
+      }, 300);
+    });
   }
 
   setLocations(locations: LocationItem[]): void {
@@ -294,11 +341,26 @@ export class MapController {
 
   switchWorld(world: WorldType): void {
     if (!this.map) return;
+    const oldWorld = this.currentWorld;
     this.currentWorld = world;
-    const target = WORLD_VIEWPORTS[world];
+
+    if (oldWorld === world) return;
+
+    const center = this.map.getCenter();
+    const currentZoom = this.map.getZoom();
+    const latDiff = WORLD_LAT_OFFSETS[world] - WORLD_LAT_OFFSETS[oldWorld];
+    const targetLat = center ? center.lat + latDiff : WORLD_VIEWPORTS[world].center[1];
+    const targetLng = center ? center.lng : WORLD_VIEWPORTS[world].center[0];
+
+    const isValidCoord = Number.isFinite(targetLat) && Number.isFinite(targetLng);
+    const targetCenter: [number, number] = isValidCoord
+      ? [targetLng, targetLat]
+      : WORLD_VIEWPORTS[world].center;
+    const targetZoom = Number.isFinite(currentZoom) ? currentZoom : WORLD_VIEWPORTS[world].zoom;
+
     this.map.easeTo({
-      center: target.center,
-      zoom: target.zoom,
+      center: targetCenter,
+      zoom: targetZoom,
       duration: 600,
     });
   }
